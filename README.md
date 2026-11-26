@@ -9,6 +9,8 @@ Code, báo cáo và `ket_hop.json` đã ở trên GitHub, nhánh `dev2`. Thư m�
 | `Dyv10.0/` | Model phần Dyv, bản **release**: train lại trên train + `val_vi` + `test_vi_internal` sau khi đã đo (như `--release` của Dyv6.0). `router.json` ghi `"release": true` | Chỉ qua **GitHub Release / Git LFS**, và chỉ sau khi Trần xác nhận giấy phép tin thật (QUESTION-54) |
 | `v4c/` | Adapter LoRA V4C + calibrator (thay `bge_m3_lora_v4`) | Như trên |
 | `du_lieu_mo_phong/` | Dữ liệu mô phỏng do nhóm sinh (data_v6, mục B, bộ 29 kiểu, danh sách 26 ca) — các file này đã có sẵn trong repo | Không cần (đã có trong `ml/sms_dataset/`) |
+| `du_lieu_mo_phong/v8/` | **Bộ v8 (26/11/2026, mô phỏng):** `sms_v8_train.csv` (5.886 tin, dễ → siêu khó), `sms_v8_public_test.csv` (2.179 tin, gồm lại các bộ test cũ), thẻ dữ liệu `DATA_CARD.md`, bảng độ khó `do_kho.md`, `stats_v8.json`, bộ 60 kiểu gốc `vietnam_scam_dataset_60_kieu.csv` | Có (repo MOMO-AI đang để riêng tư) |
+| `du_lieu_mo_phong/v8/private_KHONG_TRAIN/` | `sms_v8_private_test.csv` (828 tin, khó vượt trội) + `templates_v8_rieng.py` (mẫu để sinh lại bộ private). **Chỉ dùng để đo, không bao giờ train.** Không có trên kho công khai nbaphu08/Hallucination (QUESTION-58) | Được vì MOMO-AI riêng tư; nếu chuyển repo sang công khai thì bỏ thư mục này ra trước |
 | `du_lieu_that_KHONG_UP/` | Tin SMS thật (kho của Trần, tin thành viên gửi) | **KHÔNG** — repo đang công khai, dữ liệu thật chỉ để trong `data/` (gitignore) |
 | `ket_hop.json`, `report.md`, `test_26_ca.md` | Cấu hình gộp và kết quả đo | Đã có trong repo |
 | `_to_delete/` | File tạm khi chép | Xoá đi |

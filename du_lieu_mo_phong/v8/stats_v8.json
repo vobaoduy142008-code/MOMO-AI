@@ -1,0 +1,247 @@
+{
+  "mo_ta": "Bộ v8 MÔ PHỎNG (không phải tin thật). Xem data_v8/DATA_CARD.md.",
+  "so_mau": {
+    "train": 285,
+    "public_test": 145,
+    "private_test": 177
+  },
+  "so_chu_de": {
+    "bo_60_kieu": 60,
+    "research_v8": 11,
+    "chi_private": 5
+  },
+  "kieu_60_khong_co_train": [
+    "t08",
+    "t21",
+    "t37",
+    "t52",
+    "t53",
+    "t58"
+  ],
+  "sinh_truoc_loc": {
+    "train": 6104,
+    "public_moi": 1143,
+    "private": 831
+  },
+  "bo_do_ro_ri": {
+    "train~26_cau(difflib)>=0.50": 217,
+    "train~cau_goc_60/test_suite>=0.80": 1,
+    "private~cu/train/public>=0.80": 3
+  },
+  "tham_chieu_cu_so_tin": 27994,
+  "du_lieu_tran_dung_de_loc": true,
+  "train": {
+    "so_tin": 5886,
+    "nhan": {
+      "hop_le": 2048,
+      "lua_dao": 2936,
+      "nghi_ngo": 902
+    },
+    "muc_do": {
+      "de": 1180,
+      "kho": 1428,
+      "sieu_kho": 480,
+      "trung_binh": 2798
+    },
+    "kenh": {
+      "email": 480,
+      "facebook": 936,
+      "goi": 248,
+      "messenger": 573,
+      "sms": 1724,
+      "telegram": 144,
+      "tiktok": 24,
+      "zalo": 1757
+    },
+    "dang": {
+      "cuoc_goi": 96,
+      "hoi_thoai": 368,
+      "tin_nhan": 5422
+    },
+    "nguon_chu_de": {
+      "bo_60_kieu": 4366,
+      "hop_le_chung": 240,
+      "research_v8": 1280
+    },
+    "so_chu_de": 66,
+    "muc_do_x_nhan": {
+      "de/hop_le": 144,
+      "de/lua_dao": 1036,
+      "kho/hop_le": 248,
+      "kho/lua_dao": 1017,
+      "kho/nghi_ngo": 163,
+      "sieu_kho/hop_le": 96,
+      "sieu_kho/lua_dao": 307,
+      "sieu_kho/nghi_ngo": 77,
+      "trung_binh/hop_le": 1560,
+      "trung_binh/lua_dao": 576,
+      "trung_binh/nghi_ngo": 662
+    },
+    "co_bien_doi": 1771,
+    "bien_doi": {
+      "emoji": 1040,
+      "tron_tieng_anh": 211,
+      "ky_tu_an": 263,
+      "cach_chu": 187,
+      "so_bang_chu": 70
+    },
+    "chu_de_moi_voi_train": 0,
+    "khong_dau_x_nhan": {
+      "lua_dao": 0.441,
+      "nghi_ngo": 0.476,
+      "hop_le": 0.446
+    },
+    "giong_nhat_da_co": {
+      "trung_binh": 0.337,
+      "trung_vi": 0.313,
+      "p90": 0.527,
+      "max": 0.9
+    }
+  },
+  "public_test": {
+    "so_tin": 2179,
+    "nhan": {
+      "hop_le": 979,
+      "lua_dao": 1017,
+      "nghi_ngo": 183
+    },
+    "muc_do": {
+      "de": 85,
+      "kho": 643,
+      "khong_ro": 122,
+      "sieu_kho": 13,
+      "trung_binh": 1316
+    },
+    "kenh": {
+      "email": 224,
+      "facebook": 114,
+      "goi": 78,
+      "khac": 153,
+      "messenger": 120,
+      "sms": 941,
+      "telegram": 26,
+      "tiktok": 40,
+      "zalo": 483
+    },
+    "dang": {
+      "cuoc_goi": 70,
+      "hoi_thoai": 16,
+      "tin_nhan": 2093
+    },
+    "nguon_chu_de": {
+      "bo_60_kieu": 963,
+      "hop_le_chung": 40,
+      "research_v8": 200,
+      "test_cu": 976
+    },
+    "so_chu_de": 146,
+    "muc_do_x_nhan": {
+      "de/hop_le": 52,
+      "de/lua_dao": 33,
+      "kho/hop_le": 292,
+      "kho/lua_dao": 290,
+      "kho/nghi_ngo": 61,
+      "khong_ro/hop_le": 48,
+      "khong_ro/lua_dao": 71,
+      "khong_ro/nghi_ngo": 3,
+      "sieu_kho/lua_dao": 12,
+      "sieu_kho/nghi_ngo": 1,
+      "trung_binh/hop_le": 587,
+      "trung_binh/lua_dao": 611,
+      "trung_binh/nghi_ngo": 118
+    },
+    "co_bien_doi": 177,
+    "bien_doi": {
+      "ky_tu_an": 26,
+      "cach_chu": 18,
+      "emoji": 111,
+      "tron_tieng_anh": 19,
+      "so_bang_chu": 3
+    },
+    "chu_de_moi_voi_train": 54,
+    "khong_dau_x_nhan": {
+      "lua_dao": 0.365,
+      "nghi_ngo": 0.475,
+      "hop_le": 0.398
+    },
+    "giong_nhat_da_co": {
+      "trung_binh": 0.416,
+      "trung_vi": 0.393,
+      "p90": 0.6,
+      "max": 0.9
+    }
+  },
+  "private_test": {
+    "so_tin": 828,
+    "nhan": {
+      "hop_le": 388,
+      "lua_dao": 397,
+      "nghi_ngo": 43
+    },
+    "muc_do": {
+      "kho": 58,
+      "sieu_kho": 770
+    },
+    "kenh": {
+      "email": 130,
+      "facebook": 70,
+      "goi": 24,
+      "messenger": 116,
+      "sms": 185,
+      "telegram": 33,
+      "zalo": 270
+    },
+    "dang": {
+      "hoi_thoai": 81,
+      "tin_nhan": 747
+    },
+    "nguon_chu_de": {
+      "bo_60_kieu": 585,
+      "hop_le_chung": 25,
+      "research_v8": 129,
+      "rieng_private": 89
+    },
+    "so_chu_de": 77,
+    "muc_do_x_nhan": {
+      "kho/hop_le": 15,
+      "kho/lua_dao": 35,
+      "kho/nghi_ngo": 8,
+      "sieu_kho/hop_le": 373,
+      "sieu_kho/lua_dao": 362,
+      "sieu_kho/nghi_ngo": 35
+    },
+    "co_bien_doi": 412,
+    "bien_doi": {
+      "emoji": 137,
+      "tien_to_dai": 114,
+      "dong_hinh": 46,
+      "hau_to_dai": 89,
+      "ky_tu_an": 39,
+      "tron_tieng_anh": 56,
+      "link_che": 12,
+      "cach_chu": 25,
+      "so_bang_chu": 2
+    },
+    "chu_de_moi_voi_train": 171,
+    "khong_dau_x_nhan": {
+      "lua_dao": 0.355,
+      "nghi_ngo": 0.419,
+      "hop_le": 0.446
+    },
+    "giong_nhat_da_co": {
+      "trung_binh": 0.373,
+      "trung_vi": 0.356,
+      "p90": 0.544,
+      "max": 0.799
+    }
+  },
+  "public_test_theo_nguon": {
+    "data_v7/sms_dyv7_3muc.csv (split=test)": 571,
+    "data_hard_negatives/hard_negatives_b_test.csv": 253,
+    "test_suite/cau_test_26.csv": 25,
+    "test_suite/cases.py": 85,
+    "test_suite/cases_khong_dau.py": 42,
+    "nguon/vietnam_scam_dataset.csv (sample_script)": 60,
+    "mo_phong_v8": 1143
+  }
+}
