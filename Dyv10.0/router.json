@@ -1,0 +1,22 @@
+{
+  "version": "Dyv10.0",
+  "alpha": 0.0001,
+  "trong_so_that": 10.0,
+  "threshold_sgd": 0.71,
+  "k": 20,
+  "kho_da_kiem_duyet": 15002,
+  "so_tin_train": 15002,
+  "so_tin_that": 2547,
+  "oof_pr_auc_tin_that": 0.9814728746880589,
+  "thoi_gian_giay": 130,
+  "nguong_model_nen": {
+    "p_tfidf": 0.71,
+    "p_flags": 0.61,
+    "p_hybrid": 0.85,
+    "p_kmeans_only": 0.84,
+    "p_knn": 0.81
+  },
+  "ghi_chu": "Tin SMS thật không lưu nội dung (chỉ vector và từ điển TF-IDF).",
+  "release": true,
+  "ghi_chu_release": "Train lại trên train_vi_only + val_vi + test_vi_internal sau khi đã đo; số đo trong report.md và chon_cau_hinh.md là của bản chưa thấy val/test. Không còn tin SMS thật nào chưa học để đo bản này."
+}

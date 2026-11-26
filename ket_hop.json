@@ -1,0 +1,16 @@
+{
+  "version": "Dyv10.1",
+  "thanh_phan": {
+    "dyv": "Dyv10.0",
+    "v4": "V4C: LoRA của V4 train tiếp (calibrator 4c.0.0-lora; adapter chay_model_v4/v4c/ trên máy thành viên AI/ML)"
+  },
+  "muc_D20": {
+    "canh_bao": 0.3,
+    "ket_luan_lua_dao": 0.7
+  },
+  "cach": "TB",
+  "w": 0.4,
+  "ten": "TB w=0.4 + chuẩn hoá đầu vào + cửa sổ cuối; V4C + Dyv10.0 (Dyv học thêm tin SMS thật)",
+  "chuan_hoa": "input_normalizer.chuan_hoa",
+  "v4_cua_so_cuoi": true
+}

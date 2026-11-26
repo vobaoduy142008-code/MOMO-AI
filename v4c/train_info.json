@@ -1,0 +1,52 @@
+{
+  "phien_ban": "v4c",
+  "chon_epoch": 2,
+  "nguong": 0.61,
+  "lr": 0.0001,
+  "batch": 8,
+  "tich_luy": 2,
+  "so_tin_train": 8002,
+  "theo_nguon": {
+    "train_vi": 1911,
+    "train_vi_detagged": 1375,
+    "train_vi_unaccented": 1491,
+    "targeted_v4": 552,
+    "targeted_v4_khong_dau": 387,
+    "targeted_v4_1": 380,
+    "targeted_v4_1_khong_dau": 194,
+    "hn_that": 54,
+    "hn_that_khong_dau": 28,
+    "muc_b": 678,
+    "muc_b_khong_dau": 360,
+    "muc_b_them": 391,
+    "muc_b_them_khong_dau": 201
+  },
+  "thiet_bi": "mps",
+  "val_truoc_train": {
+    "pr_auc": 0.9875676291581611,
+    "log_loss": 0.08478684374327264
+  },
+  "train_mau_truoc_train": {
+    "n": 1000,
+    "pr_auc": 0.9595946468767024,
+    "log_loss": 0.20656818125047008
+  },
+  "epochs": [
+    {
+      "epoch": 1,
+      "val_pr_auc": 0.9820255465968477,
+      "val_log_loss": 0.12730504546642163,
+      "train_loss_chay": 0.11776262650623631,
+      "train_mau_pr_auc": 0.9975750323053194,
+      "train_mau_log_loss": 0.05116512408022268
+    },
+    {
+      "epoch": 2,
+      "val_pr_auc": 0.9851348954665468,
+      "val_log_loss": 0.1254510594111876,
+      "train_loss_chay": 0.05385501538226162,
+      "train_mau_pr_auc": 0.9987522708531561,
+      "train_mau_log_loss": 0.03600149712979298
+    }
+  ]
+}
