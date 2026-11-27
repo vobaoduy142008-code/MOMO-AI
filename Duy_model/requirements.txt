@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+scikit-learn==1.9.1
+joblib>=1.3
+fastapi>=0.110      # chỉ cho api.py
+uvicorn>=0.29       # chỉ cho api.py

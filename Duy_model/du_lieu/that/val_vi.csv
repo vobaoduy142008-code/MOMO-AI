@@ -1,0 +1,589 @@
+id,text,label,source,lang,domain_type,is_primary_vi
+p0_vi_COM_581,Hệ thống đã tự động hủy yêu cầu của Quý khách do quá thời gian xác nhận. Chi tiết LH 198 ([MONEY]). Trân trọng.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_149,"Viettel TB: Quy khach da su dung het luu luong cua goi ST5K va tiep tuc truy cap theo goi Mobile Internet dang su dung (neu co). De mua them luu luong, truy cap My Viettel tai https://myvt.page.link/6 . Chi tiet LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_167,"[TB] Hưởng ứng ngày Chuyển đổi số quốc gia, Viettel tặng 50% tất cả giá trị nạp tiền điện thoại trên kênh số trong 2 ngày 10 và [DATE], tiền KM sử dụng liên lạc nội mạng trong 15 ngày. CT áp dụng khi nạp qua app ngân hàng, app My Viettel,
+Viettel Money, web viettel.vn hoặc tại https://viettel.vn/pay/tt . LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2940,"Theo dự báo, tối nay Bão số 9 sẽ vào TP.HCM. Đề nghị mọi người hạn chế đi lại ngoài đường trừ trường hợp khẩn cấp! Tonight, Typhoon No.9 hit to Ho Chi Minh City. People do not go out in case of emergency!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1508,Cuc duong bo thong bao: Phuong tien cua ban co 1 bien ban PHAT NGUOI chua nop phat tai Ha Noi. Tra cuu bien ban va dong phat tai: [http://phatnguoi.cucduongbo.top],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1807,"VAY GẤP trong ngày, chỉ cần CMND + SĐT, hạn mức [MONEY], không thẩm định người thân. Gọi/Zalo [NUMBER] gặp Nam.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_421,"Ban da dang ky thanh cong tai khoan ViettelPay, so tai khoan la: [NUMBER]. Truy cap https://vt.viettelpay.vn/dk2 de su dung cac tinh nang thanh toan hoa don, dich vu voi nhieu uu dai hap dan.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1593,"[iCl0ud_Mail] Alert: Your Apple ID cloud storage is full, and sync services have been suspended. Click here to claim 50GB of free promotional storage: http://appleid.icloud-appeal.cc",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1819,"Techcombank thông báo: thẻ của quý khách vừa phát sinh giao dịch [MONEY] lúc [TIME]. Nếu không phải quý khách, gọi ngay [NUMBER] để khóa thẻ.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1355,rwdNeuAENapDau GZheok.ORbidv.com LayLuonHaiTramKagroupsgooglecomq,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_604,[TB] Ban co the mua goi Data 1N_TMDT (co 5GB/ngay + Mien phi tat ca cuoc goi noi mang duoi [TIME]) gia chi [MONEY] duy nhat tren Viettel Money. Mua ngay tai https://km.vtmoney.vn/314y/g1N .,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_944,Quý khách đã đăng ký thành công gói ST15K: [MONEY]/3 ngày có 3GB. Gói cước gia hạn sau 3 ngày. Truy cập https://viettel.vn/kttk để kiểm tra ưu đãi. Chi tiết LH 198 ([MONEY]). Trân trọng.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2891,"Quy khach da dang ky thanh cong goi cuoc V20 ([MONEY]/7 ngay), Quy khach co [TIME] goi ngoai mang va 300mb su dung den [DATE] [TIME]. Chi tiet lien he 789.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2933,A ơi cái đơn hàng [NUMBER] của e a giao giúp e buổi chiều nha a tầm [TIME] trở lên càng tốt ạ,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1688,"[MBS_ChungKhoan] Trân trọng thông báo: Gói hợp đồng đầu tư ủy thác an toàn ""Tích lũy tương lai"" của quý khách đã phát sinh lợi nhuận kỳ 1. Vào ví hệ thống kiểm tra: http://mbs.quanly-danhmuc.vip",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_004,Thông báo từ VIETINBANK: Bạn dùng vui lòng đăng nhập vào vietinbamk.com ngay khi có thể để cập nhật xác thực. quá hạn tài khoản sẽ bị khóa. chúng tôi xin lỗi vì sự bất tiện (nếu có) đã gây ra cho bạn,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1407,"DOI THU NO nhan duoc LENH XU LY NO cua ONG/BA: [NAME] va nhung nguoi lien quan VI PHAM NGHIA VU THANH TOAN HD [NUMBER].Chung toi se tien hanh DEN NHA trong tuan nay DIEU TRA NHAN THAN cung THAM CHIEU tai CUC DAN SO TINH de CUNG CAP BANG CHUNG CHO QUA [NAME] ,KHOI KIEN THEO DUNG QUY [NAME]. Yeu cau nghe may hop tac.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2163,(TB) CO HOI DANH RIENG cho thue bao [NUMBER]: + 300MB data/ngay + co hoi trung xe may dien Vinfast Evo Neo tu CTKM laixevenha.vn. Moi soan DK AN gui [NUMBER] hoac truy cap https://dvs.vnpt.vn/adv/308 de dang ky. Cuoc [MONEY]/ngay. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2915,"Quy khach duoc cong [TIME] goi noi mang, su dung trong [TIME]. Bam *102#OK de kiem tra tai khoan. Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1836,"Để nhận tiền hoàn thuế [MONEY], bạn cần chuyển trước phí xử lý [MONEY] vào STK [NUMBER] (MB Bank) chủ TK MAI. Sau 15p tiền sẽ về.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1534,Apple Store VN: Chúc mừng bạn là khách hàng thứ 999.999 nhận được cơ hội mua iPhone 16 Pro với giá [MONEY]. Chương trình có hiệu lực trong [TIME]: [http://apple.khuyenmai-khung.top],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2062,Soi Dong Cung WorldCup [NUMBER]. Tai App Va Dang Ki Tang Mien Phi [MONEY]: https://v8abwc.com/0xe,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2685,Người lớn hãy nhắc trẻ em hàng ngày về nguy cơ đuối nước. Cho trẻ em học bơi để ngừa đuối nước!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1956,[MB Bank] Nhân viên CSKH sẽ gọi xác minh trong ít phút. Vui lòng đọc mã 6 số vừa gửi để hoàn tất nâng cấp bảo mật miễn phí.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2318,"Agribank: [DATE] HD 6612LAV[NUMBER] Thu Goc 200,000,000.00 Lai 102,613,700.00 Tu [DATE] Den [DATE] Lai QH 0.00 DN 1,200,000,000.00",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2863,"Thực hiện phương châm ""tạm dừng đến trường, không dừng học"", Bộ GD&ĐT đã công bố tinh giản chương trình học kỳ 2 và hướng dẫn dạy/học qua internet, trên truyền hình. Mỗi thầy cô, gia đình và toàn xã hội hãy chung tay hỗ trợ, động viên, giúp đỡ học sinh học qua internet, truyền hình đảm bảo thuận lợi, chất lượng, hiệu quả.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1185,"(QC) BLACK WEEK - Tuan le Sale lon nhat nam! Co hoi Trung Vang + Ring ngay iPhone 17 Pro Max mien phi. [NUMBER] Voucher doc quyen. Dien thoai giam toi 37%. Mua phu kien tu [MONEY]. Ap dung tu 21-30/11. Mua tai https://hhmb.net/[NUMBER] - LH [NUMBER] ([MONEY]/p). De tu choi QC, Soan TC HoangHaMobi gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2623,Quy khach da xac nhan su dung dich vu VCB Digibank thanh cong. Ten dang nhap la [NUMBER]. Vui long truy cap va trai nghiem dich vu da tien ich voi VCB Digibank,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_742,kkblvâàogejmnhâjnlieentàamtàamnqgin?hdbpkc.tpqaz.de]tàâilôjcdôfjdafordxp,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2182,PRUDENTIAL: [NUMBER] la ma xac thuc giao dich tai PRUOnline trong [TIME]. KHONG CHIA SE voi ai de tranh lo thong tin. Vui long LH [NUMBER] neu ban khong giao dich,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2490,SGWATERBUS - Ma xac thuc cua ban tai APP Saigon Waterbus la: [NUMBER]. Cam on ban da tai APP,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_499,"[QC] Tận hưởng chuyến du lịch mơ ước bằng cách đổi điểm Viettel++ để nhận các voucher từ Mytour, Vexere tại https://km.vtmoney.vn/314y/dichuyes. Chi tiết LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2080,Viettel TB: Quy khach da dung het luu luong theo Chuong trinh dong cuoc truoc khi hoa mang tra sau. Quy khach tiep tuc truy cap theo goi Mobile Internet dang su dung (neu co). Chi tiet LH 198 ([MONEY]). Tran trong.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1380,mILLapTKhoan0k33TraoPhanQua881K zDFrab.Ncbidv.com FSgroupsgooglecom,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2542,"Your verification code is [NUMBER]. If this comes as a surprise please check your security settings in case of an account compromise.
+- Blizzard Entertainment",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2312,"(TB) VinaPhone thông báo: Từ [DATE], VinaPhone điều chỉnh phương thức tính cước cuộc gọi nội mạng và liên mạng trong nước đối với các cuộc gọi ngoài ưu đãi của gói cước hoặc chưa đăng ký gói thoại theo cách tính 30 giây đầu + 6 giây tiếp theo. GIÁ CƯỚC CUỘC GỌI/PHÚT KHÔNG THAY ĐỔI. Chi tiết tại my.vnpt.com.vn/adv/cuocdd hoặc CSKH [NUMBER] ([MONEY]). Trân trọng cảm ơn Quý khách!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2354,"(TB) TANG 300MB DATA/7 ngay khi dang ky dich vu Cartoon Game va choi game, xem video tai https://cartoongame.vn! Danh cho thue bao [NUMBER], soan DK CTG25 gui 888. Cuoc [MONEY]/7 ngay. CSKH [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1590,[Vjetjet_Alr] Chúc mừng! Số điện thoại của bạn trúng thưởng giải đặc biệt sự kiện bay hè: Cặp vé khứ hồi đi Nhật Bản [MONEY]. Hoàn tất thủ tục nhận vé: http://vietjet.ve-khu-hoi-[MONEY].vip,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_493,TB Dung quen Ban dang co voucher MIEN PHI [MONEY] khi nap dien thoai Viettel. Mo app hoac truy cap https://km.vtmoney.vn/314y/uudai2 de su dung uu dai Ban nhe.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1791,"Mẹ ơi con làm rớt điện thoại xuống nước rồi, đây là số bạn con. Con cần đóng học phí gấp [MONEY], mẹ chuyển giúp con vào STK [NUMBER] ACB nha.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2476,"(QC) +[MONEY] vao TKC khi soan A gui [NUMBER] ([MONEY]) va duy tri DV 5 ngay, MIEN PHI 3G/4G tai memusic.vn. Sau km [MONEY]/ngay. Mua The, Nap the di dong Online tai app My VNPT http://onelink.to/v58hh4. LH [NUMBER] ([MONEY]). TCQC soan TC gui [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_744,odvh$eblar.bdukm.cc;djêfntêxnvăanhhậntaamtasmkplutjâituyệhvwờjntlh,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1485,Đơn hàng [NUMBER] đang giữ tại bưu cục do thiếu cước [MONEY]. Vui lòng thanh toán vào STK [NUMBER] (VPBank) trước [TIME] hôm nay để được giao.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1139,"[QC] Vay nhanh linh hoat [TIME] - [MONEY] dong ve tay. Chi can CCCD, tra gop den 48 thang. Lai suat uu dai. Dang ky online voi Viettel Money: https://viettelmoney.go.link/fLcIg .Chi tiet LH [NUMBER] ([MONEY]). Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2921,"Hãy lật úp các dụng cụ chứa nước, thu gom, loại bỏ các vật phế thải nơi muỗi đẻ trứng để phòng bệnh sốt xuất huyết.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_430,"VTMONEY: Nhap ma OTP 1864 de xac nhan THANH TOAN [MONEY] cho thue bao [NUMBER], phi GD [MONEY]. Quy khach KHONG CUNG CAP OTP cho bat ky ai.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1861,"TUYỂN CTV chốt đơn Shopee tại nhà, lương 300-[MONEY]/ngày, không cần cọc. Kết bạn Zalo số [NUMBER] để nhận việc ngay.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_621,"Quy khach duoc cong them [POINT] Viettel++ boi giao dich Tieu dung vien thong thang 07/[NUMBER]. Thoi han su dung diem den [DATE]. Hay truy cap https://myvt.page.link/vtplus tren My Viettel hoac *098# de doi diem sang Data, SMS, Phut goi cung nhieu uu dai gia tri khac. Chi tiet LH 198. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1464,Nhà 51/9 dg 475. Anh còn ở ko. Anh xác minh lại em Dũng công an khu vực. Ko phải lừa đảo cung cấp thông tin em cái.???,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_504,"[QC] Thoả sức săn deal TIKI 5.5, thanh toán nhanh gọn với Viettel Money. Chi tiết tại https://km.vtmoney.vn/NE34/uudaitiki hoặc LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1769,Đơn hàng [NUMBER] đang giữ tại bưu cục do thiếu cước [MONEY]. Vui lòng thanh toán vào STK [NUMBER] (ACB) trước [TIME] hôm nay để được giao.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_406,"Nhap ma OTP 7807 de xac thuc Dang nhap tren ung dung My Viettel. Chi tiet LH [NUMBER] ([MONEY]) hoac truy cap https://viettel.vn/app. De dam bao an toan cho tai khoan cua Quy khach, vui long khong chia se ma xac thuc nay voi bat ky ai.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_522,[TB] Ban co KHUYEN MAI 60% nap dien thoai duy nhat [DATE] khi thanh toan bang tai khoan Tien di dong tren Viettel Money. Nap ngay tai https://km.vtmoney.vn/314y/topup60 .,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2625,"Ma OTP xac thuc GD la 565903, hieu luc [TIME]. Chi tiet GD: Kich hoat tinh nang thong bao OTT tren VCB-Mobile B@nking.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_580,"Thao tác không thành công. Quý khách hiện đang có giao dịch chưa xử lý, vui lòng thử lại sau. Chi tiết LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2248,"(TB) Bạn mới đăng ký tài khoản VNPT Money để nạp tiền điện thoại được NHẬN NGAY 3 thẻ quà đa năng trị giá [MONEY], GIẢM THÊM 2.4% mệnh giá, không giới hạn số lần khi Nạp điện thoại VinaPhone. DUY NHẤT tại https://km.vnptmoney.vn/LB0. LH [NUMBER] (#3).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2939,"Quy khach DK thanh cong goi cuoc HD70. Gia goi [MONEY], co ngay 3,8 GB (su dung tai VN). Het 3,8 GB , he thong ngat ket noi Internet. Han su dung den [DATE] [TIME]. Tat toan bo ung dung Internet hoac khoi dong lai may de duoc tinh cuoc theo goi HD70. De huy goi cuoc, soan HUY HD70 gui 999.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_431,Quy khach da thanh toan thanh cong [MONEY] cuoc cho thue bao mobile [NUMBER]. Phi GD [MONEY]. [DATE] [TIME].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2871,(QC) Soan DKGA gui [NUMBER] ([MONEY]) de duoc MIEN PHI 100% data 3G/4G TOC DO CAO khi xem NGUOI DEP tai http://kenhgiaitrivn.net. Sau KM [MONEY]/ngay. TCQC soan TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2297,"(TB) Quy khach da hoa mang/dang ky/gia han goi cuoc/nap the VinaPhone va duoc nhan ma du thuong [NUMBER] tham gia CTKM ""30 nam phung su - Trieu qua Tri an"" mung Sinh nhat VinaPhone. Vui long soan tin 30NAM gui [NUMBER] (mien phi) truoc [TIME] ngay 10/07 de nhan co hoi trung giai den [MONEY], Ky nghi duong 5* tri gia [MONEY]. Tong gia tri giai thuong tren 03 TY dong. CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2643,"(TB) Quy khach da may man duoc MIEN PHI 100% 3G/4G. De nhan, soan G2 gui [NUMBER] ([MONEY]) va trai nghiem tai http://glive.vn/gfood. Sau KM [MONEY]/ngay. Chi tiet LH [NUMBER] (cuoc di dong). Tran trong cam on.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_338,"Quy khach dang thuc hien
+Thanh toan QR
+Nguoi nhan: VIET NAM FAMILY CVS
+So tien: [MONEY]
+Ma OTP: 163105 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_942,Mang mũ bảo hiểm cho am,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1067,"[QC] Lào - Việt Nam: [TIME] ngày 19/7.
+U23 Việt Nam chính thức ra quân.
+Soạn 5GVS12 gửi 191: [MONEY]/ngày có:
+- 6GB data
+- Xem thể thao và truyền hình trên [NUMBER] không tốn data tại https://tv360.vn .
+Ưu đãi sử dụng đến [TIME] ngày đăng ký, gia hạn theo ngày. LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC4 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1724,"[Kyna_GiaSu] Trung tâm tuyển dụng giáo viên, sinh viên nhận lớp dạy kèm trực tuyến môn Toán Lý Hóa tiếng Anh lương cao, đăng ký nhận lớp:http://teacher-jobs-[NUMBER].bond",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_122,"[TB] Tặng 20% giá trị tất cả thẻ nạp vào tài khoản viễn thông trong ngày [DATE]. CT áp dụng khi nạp thẻ online qua các ví điện tử, ứng dụng thanh toán hoặc tại https://viettel.vn/pay/tt . Tiền KM sử dụng liên lạc nội mạng trong 15 ngày. 
+Chi tiết gọi 197 bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_423,Quy khach da lien ket Sacombank - [NUMBER] voi dich vu ViettelPay thanh cong. Ngay GD: [DATE] [TIME],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1475,điền ngay mã này 660 5 ?>>>,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1304,"[TB] THOẢI MÁI DATA LƯỚT MẠNG XÃ HỘI.
+Soạn [NUMBER] gửi 191: [MONEY]/30 ngày có 1GB/ngày, miễn phí data truy cập TikTok, YouTube, Meta (Facebook, Threads, Instagram, nhắn tin Messenger).
+Gói cước gia hạn sau 30 ngày. Chương trình dành riêng cho Quý khách. Liên hệ 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2356,"(TB) VinaPhone tặng Quý khách quyền lợi TẶNG NGAY 
+DATA, CHƠI GAME CỰC ĐÃ khi đăng ký gói BCL5: 
++ Có ngay 200MB Data tốc độ cao sử dụng trong [TIME] (hết dung lượng tính cước theo quy định). 
++ Miễn phí 100% các tựa game hàng đầu tại kho game của dịch vụ Clubgame tại https://vplay.vn . 
+Soạn BCL5 gửi 888 ngay kẻo lỡ. Cước: [MONEY]/[TIME]. CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2206,"(TB) Mở Mobile Money từ sim VinaPhone chính chủ (không cần thực hiện định danh lại). Nhận ngay 3 quà tặng trị giá [MONEY] để nạp tiền di động, thanh toán hoá đơn,...cùng nhiều ưu đãi khác lên tới [MONEY] VNĐ. Hạn mức thanh toán tới [MONEY] VNĐ, chuyển tiền linh hoạt tới các nhà mạng khác. Truy cập ngay tại: https://km.vnptmoney.vn/LDPmomoi. LH [NUMBER] (#3).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_104,"[TB] CHÀO MỪNG ĐẾN VỚI TP. Hồ Chí Minh!
+Mời Quý khách tham khảo các gói cước để lên mạng và liên lạc trong suốt chuyến đi:
+1. Soạn ST15K gửi 191: [MONEY]/3 ngày có 3GB
+2. Soạn 3N gửi 191: [MONEY]/3 ngày có 5GB/ngày, miễn phí gọi điện, SMS nội mạng và [NUMBER]
+Chi tiết các gói cước tại https://viettel.vn/s/3ngay . LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2552,"Goi cuoc 12MAX90 duoc gia han thanh cong. De kiem tra uu dai, soan KT ALL gui 999. Chi tiet lien he [NUMBER]. Xin cam on!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2651,"TANG NGAY 3G/4G 100% MIEN PHI TOC DO CAO cho TB [NUMBER] khi Soan F2 gui [NUMBER] ([MONEY]). Web stv.net.vn/haiclip. Sau km [MONEY]/ngay. TCQC TC gui [NUMBER], LH [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_197,"[TB] VIETTEL TẶNG 20% GIÁ TRỊ TẤT CẢ THẺ NẠP trong ngày 25/10. Tiền KM sử dụng nội mạng đến hết [DATE]. Giảm thêm 2,5% khi nạp thẻ tại https://viettel.vn/pay/tt . Chi tiết gọi 197 bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2011,JjDangNhap ngFLK.BidvXz.com NhanMaKM66Ngangroupsgoo glecomGBP,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1777,Hồ sơ vay [MONEY] đã duyệt. Vui lòng nộp phí bảo hiểm khoản vay [MONEY] vào TK [NUMBER] ACB để giải ngân ngay.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2959,"(CSKH) ĐỐI ĐIỂM HÔM NAY – NHÂN NGAY NGÀN ƯU ĐÃI! 
+Là Hội viên VinaPhone Plus, Quý khách có thể dùng điểm tích lũy để đổi voucher ẩm thực, mua sắm, di chuyển, du lịch và nhiều ưu đãi hấp dẫn khác. Kính mời Quý khách khám phá và đổi quà ngay trên ứng dụng My VNPT: 
+http://my.vnpt.com.vn/app? screenCode=VNPPLUS. 
+CSKH: [NUMBER] ([MONEY]). 
+Trân trọng!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1758,"Cục Viễn thông thông báo: Số thuê bao của quý khách đang bị khiếu nại do có hành vi phát tán thông tin quảng cáo, tin nhắn rác trái quy định. Hệ thống sẽ tiến hành tạm khóa và thu hồi quyền sở hữu số điện thoại này trong vòng [TIME] tới. Vui lòng liên hệ đường dây nóng phản hồi: [NUMBER] nếu có sự nhầm lẫn.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_307,"[QC] ƯU ĐÃI HOT - DÀNH TẶNG BẠN! Đổi điểm Viettel++ trên Viettel Money tại https://km.vtmoney.vn/314y/ktn20 để nhận ngay voucher giảm [MONEY] đến từ Katinat. LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2485,Dat phong [NUMBER] tai OHOME APARTMENT da bi huy boi he thong. Moi thac mac xin lien he qua hotline: [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_009,"Tai khoan cua ban dang duoc dang nhap tren thiet bi khac, neu khong phai ban dang nhap vui long vao https://vietcombank.vn-mtt.top de sua doi mat khau hoac thoat khoi thiet bi kia",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2949,"Quý khách đã hủy thành công dịch vụ Chọn Số May Mắn nhận thưởng của MobiFone. Để đăng ký lại và có cơ hội trúng thưởng [MONEY] ĐỒNG/NGÀY hoặc [MONEY] ĐỒNG/THÁNG, soạn DK LQ gửi [NUMBER]. Chi tiết truy cập http://mayman.myfoto.vn hoặc LH [NUMBER] ([MONEY]/phút). Trân trọng cảm ơn!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_315,"[TB] NẠP THẺ HÔM NAY (10/01) - NHẬN NGAY KM: Tặng 20% giá trị tất cả thẻ nạp, tiền KM sử dụng nội mạng đến hết [DATE]. Nạp thẻ online tại https://km.vtmoney.vn/314y/kmdaitra . Chi tiết gọi 197 bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_081,"Xin chào . Bạn là người dùng có lịch sử tương tác tốt . Chúc mừng bạn đã được EBAY xét duyệt và nhận được phần công việc online để kiếm thêm thu nhập .
+Công việc dễ dàng thực hiện và thanh toán . Mỗi ngày bạn có thể kiếm [MONEY]-[MONEY] . Bạn hãy liên hệ mình ngay để được hướng dẫn .
+zalo.me/[NUMBER]
+zalo: [NUMBER]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1874,Đơn hàng của bạn cần thanh toán phí lưu kho [MONEY] vào STK [NUMBER] (VPBank) trước [TIME] hôm nay nếu không sẽ hoàn trả.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2993,"[TB] Trung tâm Phục vụ hành chính công tỉnh Hưng Yên triển khai ứng dụng Công dân số iHungyen. Đề nghị Nhân dân trên địa bàn tải và cài đặt ứng dụng ""¡Hungyen"" trên CH Play hoặc App Store để gửi thông tin phản ánh hiện trường và sử dụng các dịch vụ số. Đường dẫn cài đặt:
+1. IOS:
+https://tinyurl.com/ihungyenIOS
+2. Android:
+https://tinyurl.com/ihungyenandroid",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2337,"(TB) Ưu đãi không thể bỏ lỡ! 
+VinaPhone tặng Quý khách ưu đãi 20% giá trị thẻ nạp vào ngày mai [DATE] (khuyến mại được sử dụng để gọi/nhắn tin trong 15 ngày). Đặc biệt, nạp từ [MONEY] để có cơ hội trúng lớn mỗi ngày: Chuyến du lịch 5 sao trị giá trị giá [MONEY], cộng [MONEY] - [MONEY] vào tài khoản. Chi tiết: khuyenmai.vinaphone.com.vn . CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2344,"Ma xac thuc (OTP) la 489814 co hieu luc trong [TIME]. Viec cung cap OTP duoc hieu Quy khach da xac nhan thong tin dang ky la chinh xac va dong y cho phep VIB, VNPT, Data Nest duoc xu ly du lieu ca nhan KH va cung cap Diem xep hang KH dua tren lich su cua thue bao VinaPhone de tham dinh ho so mo the tin dung tai VIB. Vui long truy cap https://tb.vnptmoney.vn/cs de biet them chinh sach dich vu ve viec bao ve du lieu ca nhan khach hang. Neu QK can ho tro, xin lien he hotline VIB [NUMBER]. Tran trong cam on!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_419,Quy khach duoc cong [POINT] do Kich hoat tai khoan tien di dong tai VIETTEL MONEY vao ngay [DATE].Truy cap https://vtmoney.onelink.me/314y/loyalty de doi diem sang cac qua tang cua chuong trinh. Tran trong.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_085,"Quy khach co [MONEY] trong tai khoan. Bam goi *098*3# de co 3GB voi [MONEY]/3 ngay hoac *098*989# ([MONEY]/3 ngay) co 15GB (5GB/ngay), mien phi [TIME]/cuoc noi mang, [TIME] ngoai mang, SMS noi mang va [NUMBER].
+Goi cuoc gia han khi het chu ky. De biet thong tin cac uu dai khac, bam goi *098# hoac truy cap My Viettel tai https://myvt.page.link/goidata . Chi tiet LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1405,"[TB] NẠP THẺ ONLINE - TẶNG NGAY 20%!
+Duy nhất ngày 15/05: Tặng 20% giá trị tất cả thẻ nạp (dùng truy cập data trong 15 ngày). Chương trình áp dụng khi nạp thẻ online qua các ví điện tử/app hoặc tại https://viettel.vn/pay/tt . Chi tiết gọi 197 (phím 19, [MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_281,"(QC)Ban co the vay den [MONEY] sau [TIME] tu EVNFinance hoac Mcredit qua MoMo. De biet them thong tin: https://momo.vn/s-vaynhanh . De tu choi, soan TC TenThuongHieu gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2034,"TB] NẠP THẺ ONLINE - DATA XÀI NGAY! Tặng 20% giá trị tất cả thẻ nạp vào tài khoản viễn thông trong ngày [DATE]. Tiền KM sử dụng TRUY CẬP INTERNET trong 15 ngày. CT áp dụng khi nạp thẻ online qua các ví điện tử, ứng dụng thanh toán hoặc tại https://viettel.vn/pay/tt . Chi tiết gọi 198, bấm phím 8 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1486,"Trang Facebook của bạn vi phạm bản quyền, sẽ bị vô hiệu hóa trong [TIME]. Nếu cần kháng nghị, vui lòng liên hệ bộ phận hỗ trợ qua [NUMBER].",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2883,"Vietnamobile xin kinh chuc Quy khach va Gia dinh nam moi [NUMBER] An Khang, Hanh Phuc. Tran trong cam on Quy khach da tin tuong su dung dich vu va dong hanh cung VNM trong thoi gian qua.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2810,"(QC) Quy khach soan DKG gui [NUMBER] de huong 4G mien phi 100% nhe. Luot web tha ga tai fungame.vn. Sau KM [MONEY]/ngay. TCQC, soan TC gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1308,(TPBank) Hoa don Vi Tra Sau Momo T02.[NUMBER] cua QK co du no [MONEY]. QK co the TT toan bo du no hoac TT toi thieu truoc ngay [DATE]. Vui long bo qua neu da TT,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_180,"[TB] CHỈ [MONEY], CÓ DATA SIÊU TỐC!
+Chỉ với [MONEY]/ngày có ngay 500MB sử dụng đến [TIME]. Tham gia, soạn ST5K gửi 191. Gói cước gia hạn hàng ngày. Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_108,"Quý khách đã hủy gia hạn gói ST30K, ưu đãi còn lại của gói ST30K được sử dụng đến hết chu kỳ. Để biết các ưu đãi dành riêng cho TB của Quý khách, vui lòng bấm gọi *098#. Chi tiết LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_915,"[QC] Mở thẻ tín dụng VIB hạn mức đến [MONEY] đồng, đăng ký 100% online. Miễn phí thường niên và phí rút tiền mặt. Tận hưởng ưu đãi đến 40% từ hệ sinh thái Privileges của VIB tại các thương hiệu hàng đầu Việt Nam. Đăng ký tại https://viettel.vn/vibsms4 hoặc LH [NUMBER] ([MONEY]/p) để được tư vấn. Từ chối QC, soạn TC7 VT_MALL gửi 197.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2133,"(TB) +200MB data/[TIME] va quyen truy cap cac khoa hoc ky nang, ngoai ngu,... tren nen tang vnStudy. Moi thue bao [NUMBER] soan DK VSHT gui 888 de dang ky. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2015,DANG KY TAI KHOAN NAP DAU 50 NHAN 50 nk99hv.com,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_919,"[QC] TRỰC TIẾP VÀ ĐỘC QUYỀN phát trên [NUMBER] vào 02h00 ngày 9/4: Arsenal - Real Madrid!
+Đón xem trận cầu tâm điểm nhất của vòng tứ kết lượt đi giải C1 tại https://tv360.vn/ . Chi tiết LH [NUMBER] ([MONEY]) hoặc quan tâm Zalo OA [NUMBER] tại https://zalo.me/tv360official . Từ chối QC, soạn TC4 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_836,"[QC] Tặng voucher di chuyển và đặt đồ ăn từ Grab khi mua gói SD30S. Phí gói [MONEY]/7 ngày có tối đa 2GB/ngày. CT áp dụng đến [DATE] cho Khách hàng nhận tin nhắn và đăng ký tại https://myvt.page.link/SD30S. Chi tiết LH 198 ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2008,ghUserMoiTangQua100Ka kdTuts.URBidv.com uugroupsgooglecom,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2624,"Quy khach dang kich hoat dich vu VCB Digibank tren kenh Mobile, ma xac thuc la [NUMBER], hieu luc trong [TIME]. LUU Y KHONG TIET LO MA XAC THUC NAY CHO NGUOI KHAC",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2428,Steam: Dùng mã QGGF7 để thay đổi thông tin tài khoản của bạn,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1494,"Phat hien tai khoan cua ban dang nhap khac vung bat thuong, vui long dang nhap https://acb vn.net de xac nhan thong tin va thay doi mat khau",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_940,"[TB] 5G SIÊU TỐC - THẦN TỐC BỨT PHÁ
+Mừng Đại Lễ, Viettel tặng [MONEY] khi đăng ký gói:
+1. Soạn 5GLQ190 gửi 191: [MONEY]/30 ngày có 180GB (6GB/ngày)
+2. Soạn 5GLQ210 gửi 191: [MONEY]/30 ngày có 180GB (6GB/ngày), miễn phí gọi điện
+Gói cước gia hạn sau 30 ngày. Chi tiết gói xem tại https://viettel.vn/5glq.
+Tiền KM cộng trong [TIME], dùng để truy cập Internet trong 5 ngày. CT dành riêng cho Quý khách đến hết [DATE]. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1101,"[TB] MỪNG 2/9 - Kết nối trọn niềm vui!
+1. Soạn 1 gửi 191 để xác nhận tham gia gói 5G29: [MONEY]/3 ngày có 8GB/ngày (đã bao gồm 4GB được tặng khi đăng ký/gia hạn từ 19/8-2/9), xem kho phim lịch sử trên [NUMBER], [TIME] gọi điện, 80SMS nội mạng. Chi tiết gói tại viettel.vn/5G29. 
+2. Soạn 2 gửi 191 để nhận thông tin chuỗi sự kiện chào mừng 2/9 và khuyến mại HOT từ Viettel.
+CT áp dụng đến hết [DATE]. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1948,"Bạn đã trúng thưởng [MONEY] chương trình tri ân. Để nhận, đóng phí hồ sơ [MONEY] vào STK [NUMBER] Vietcombank, chủ TK Vũ Lan.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2480,[NUMBER] là mã Facebook của bạn. Vui lòng không chia sẻ mã này.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1656,"[Techcom_Securities] Cảnh báo bảo mật: Phát hiện yêu cầu thay đổi điều khoản thụ hưởng trên hợp đồng sở hữu trái phiếu doanh nghiệp của bạn. Nếu lỗi, vào chặn ngay: [http://tcb.kiemtra-traiphieu.cc]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1834,"Bưu điện: bạn có 1 bưu phẩm chứa tài liệu pháp lý chưa nhận. Liên hệ tổng đài [NUMBER] để được hướng dẫn, quá hạn sẽ chuyển Cục CSGT.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_125,"[TB] Phòng Cảnh sát giao thông đường bộ - đường sắt Công an Thành phố Hồ Chí Minh khuyến cáo: Điều khiển phương tiện sau khi đã sử dụng rượu bia là một trong những nguyên nhân hàng đầu dẫn đến các vụ tai nạn giao thông đặc biệt nghiêm trọng, 
+để lại hậu quả thương tâm cho chính gia đình bạn và xã hội. Vì sức khỏe và an toàn của chính bạn: “Đã uống rượu bia - không lái xe"".",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1865,"VAY GẤP trong ngày, chỉ cần CMND + SĐT, hạn mức [MONEY], không thẩm định người thân. Gọi/Zalo [NUMBER] gặp Phương.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2572,Ma xac thuc yeu cau tu Dai ly phuongpthong_hcm de dang ky thong tin cho quy khach la: [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_097,"[TB] Toàn dân tích cực hưởng ứng tham gia cuộc thi Tìm hiểu Luật phòng, chống ma túy. Thông tin chi tiết truy cập địa chỉ: https://thitimhieuluatphongchongmatuy.vn",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1116,Thue bao [NUMBER] vua tra cuu chi tiet cuoc tren MyViettel. Tran trong,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2971,"[TB] Chung tay vì một cộng đồng không ma tuý, toàn dân hãy tố giác tội phạm, tệ nạn ma tuý đến số hotline Cục trưởng Cục Cảnh sát ĐTTP về ma tuý: [NUMBER]. Bảo mật tuyệt đối người cung cấp tin, thông tin giá trị sẽ được xem xét khen thường.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_227,Quy khach da dung het luu luong data cua CT Viettel++ va tiep tuc truy cap theo goi Mobile Internet dang su dung (neu co). Chi tiet LH 198 ([MONEY]). Tran trong.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2782,"Dịch bệnh Covid-19 diễn biến phức tạp. Bộ TT&TT và Bộ Y tế đề nghị tất cả người dân có máy điện thoại thông minh cài đặt ứng dụng phát hiện tiếp xúc gần Bluezone. Ứng dụng sẽ cảnh báo nguy cơ lây nhiễm COVID-19, giúp bảo vệ bản thân và gia đình. Cài đặt ngay tại https://bluezone.gov.vn/taiapp",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1370,"[TB] NẠP THẺ ONLINE - TẶNG NGAY 20%!
+Duy nhất ngày 15/04: Tặng 20% giá trị tất cả thẻ nạp (dùng truy cập data trong 15 ngày). Chương trình áp dụng khi nạp thẻ online qua các ví điện tử/app hoặc tại https://viettel.vn/pay/tt . Chi tiết gọi 197 (phím 19, [MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_014,"Tai khoan cua ban dang duoc dang nhap tren thiet bi khac, neu khong phai ban dang nhap vui long vao https://vietcombank.vn-utt.xyz de sua doi mat khau hoac thoat khoi thiet bi kia",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1452,"[TB] Tong chi tieu vien thong cua ban trong 3 thang gan day TANG>50% so voi gia goi data ban dang dung. Nang cap ngay goi Data de kiem soat chi phi:
+1. 5G150N co 240GB/30 ngay chi [MONEY]
+2. 5G180B co 180GB/30 ngay + mien phi goi chi [MONEY]
+3. 5GMXH200 co 210GB/30 ngay + mien phi goi chi [MONEY]
+Mua ngay tai https://viettelmoney.vn/data . Danh sach goi cuoc kha dung co the thay doi tuy theo dieu kien thue bao tai thoi diem mua. LH [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_603,"[TB] TIỆN ÍCH XEM MIỄN PHÍ EURO [NUMBER] TRÊN [NUMBER]!
+2h00 sáng ngày 15/7, Tây Ban Nha gặp Anh: Đội tuyển nào sẽ lên ngôi vương tại vòng chung kết EURO [NUMBER]?
+Mời Quý khách truy cập http://s.viettel.vn/euro_sk1 để xem trực tiếp trận đấu trên [NUMBER] (miễn phí lưu lượng data Viettel). Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1722,"[J0B_HOT_2026] Cần tuyển nhân viên nhập liệu mã capcha tại nhà, máy tính hoặc điện thoại đều làm được, công trả [MONEY]/mã thanh toán cuối ngày: http://facebook-business-help-center-fanpage-checkpoint1203.ml",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_578,"Viettel TB: Gói 1N đã kết thúc. Để biết các ưu đãi khác, truy cập https://viettel.vn/goidata hoặc bấm gọi *098#. Chi tiết LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2968,"Chuong trinh khach hang than thiet VinaPhone Plus thong bao: Quy khach dang la hoi vien hang Bac cua chuong trinh VinaPhone Plus. Vui long truy cap website/ung dung My VNPT https://my.vnpt.com.vn/adv/vplus 
+de trai nghiem uu dai hap dan (qua tang, goi cuoc ...). CSKH [NUMBER] (Od). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2448,"GOI CUOC 1M - MUA 1 TANG 1: Soan DK 1M gui 123 ([MONEY]/30 ngay) de huong ngay uu dai 2GB/ngay toc do cao, 10p goi ngoai mang, mien phi cuoc goi noi mang. Dac biet Quy Khach duoc MIEN PHI GIA HAN CHU KY TIEP THEO, uu dai ap dung 1 lan cho thue bao dang ky lan dau trong thang. CTLH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1690,"[DauTu_Xanh_Group] Hợp đồng hợp tác nuôi bò công nghệ cao sinh lời 2% mỗi ngày, rút gốc linh hoạt sau 30 ngày. Ký hợp đồng điện tử nhận ngay quà tri ân: http://nuoibo.dautu-thongminh.online",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_496,"[TB] SẮM DATA CHƠI LỄ!
+Soạn 7N gửi 191: [MONEY]/7 ngày có 35GB (5GB/ngày), miễn phí gọi điện (35p ngoại mạng, 10p/cuộc nội mạng), SMS nội mạng và [NUMBER].
+Gói cước gia hạn sau 7 ngày. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2252,"De thuc hien cuoc goi ngay ca khi het tien, bam goi tong dai tel:[NUMBER] cua VinaPhone hoac [NUMBER] + [so dien thoai can goi]. Cuoc goi noi mang [MONEY]/phut, ngoai mang [MONEY]/phut se duoc tru vao tai khoan chinh. Tu choi nhan tin nhan, soan TC gui [NUMBER]. CSKH: [NUMBER] ([MONEY])",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2259,(TB) +200MB Data/[TIME] + choi game khong gioi han tren https://id.gosu.vn khi thue bao [NUMBER] soan GOSU5 gui 888. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]).,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2047,Qua cong tac dieu tra tim kiem tai dia phuong chung toi da co du dieu kien va co so de nho Cong An vao cuoc ho tro dieu tra trong qua trinh lien he Ong/Ba [NAME] [DATE] va nguoi than lien tuc/tat nguon khoa may tron tranh nghia vu thanh toan. Yeu cau Ong/Ba cung nhung nguoi lien quan khong roi khoi dia phuong BEN TRE trong vong [TIME] (tinh tu khi nhan duoc thong bao) de lam viec truc tiep voi dai dien TO CHUC TIN DUNG ve viec cham dut va boi thuong cho ben NH. Tran trong!.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_NEW_057,UNG DUNG VCB DIGIBANK cua ban duoc PHAT HIEN KICH HOAT tren thiet bi la. Neu KHONG PHAI BAN KICH HOAT vui long bam vao https://vietcombank.vn-ms.top de doi thiet bi hoac huy de tranh mat tai san,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2718,"(QC) HOT: CHAN 100% QUANG CAO va MIEN PHI 100% DUNG LUONG 3G/4G tai http://adsblock.vn. De nhan, soan DK AB gui [NUMBER] ([MONEY]). Sau KM [MONEY]/ngay. LH [NUMBER] ([MONEY]/p). TCQC soan TC gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2614,"Siêu ƯU ĐÃI chỉ có trên My MobiFone. Để tri ân Khách hàng đã sử dụng ứng dụng, MOBIFONE triển khai các gói cước ưu đãi lên đến 06 GB/ngày, ưu đãi miễn phí Thoại nội mạng, giá chỉ [MONEY]/ngày, tùy chỉnh theo nhu cầu sử dụng của Quý khách. Tải ứng dụng My MobiFone tại https://api.mobifone.vn. Chi tiết liên hệ [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1907,"Con đang cấp cứu ở bệnh viện sau tai nạn, cần đóng viện phí gấp [MONEY]. Bố/mẹ chuyển ngay vào STK [NUMBER] TPBank giúp con, số con bị hỏng rồi.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2300,"(TB) Thông báo không thể bỏ lỡ! 
+VinaPhone tặng Quý khách ưu đãi 20% giá trị thẻ nạp ngay hôm nay [DATE] (khuyến mại được sử dụng để gọi/nhắn tin trong 15 ngày). Đặc biệt, nạp từ [MONEY] để có cơ hội trúng lớn mỗi ngày: Chuyến du lịch 5 sao trị giá [MONEY], cộng [MONEY] - [MONEY] vào tài khoản. Chi tiết: khuyenmai.vinaphone.com.vn . CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1842,"Xin lỗi, tôi vừa chuyển nhầm [MONEY] vào tài khoản của bạn. Mong bạn hoàn lại vào STK [NUMBER] Techcombank, cảm ơn nhiều!",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2092,"(GREEN SM) Ma xac thuc OTP cua ban la 0519. Ma OTP se het hieu luc sau [TIME]. Tuyet doi KHONG chia se ma OTP nay voi bat ky ai, ke ca nhan vien Green SM",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_001,"Tai khoan cua ban dang duoc dang nhap tren thiet bi khac, neu khong phai ban dang nhap vui long vao https://vietcombank.vn-gll.top de sua doi mat khau hoac thoat khoi thiet bi kia",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2629,"The Manson thong bao, don hang: 221007R4FP4BRJ da duoc kich hoat bao hanh dien tu. Chuc quy khach co giay phut trai nghiem that tot san pham. Chi tiet lien he: https://themanson.vn/",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2514,(TPBank) TPBank lien he lai nhung khong ket noi duoc voi Quy khach. Vui long goi [NUMBER] hoac [NUMBER] de duoc ho tro tot nhat. Xin cam on,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1799,"Bất động sản giá gốc CĐT, chiết khấu 15% + quà [MONEY]. Liên hệ [NUMBER] (Mr Hùng) nhận bảng giá & vị trí.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_NEW_061,"Cảnh sát Giao thông Việt Nam: Hồ sơ vi phạm giao thông được lưu trữ dưới tên của bạn. Để biết thêm thông tin, vui lòng truy cập https:// dichvucongs.top/vn",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1472,[NESTLE VN] Ma OTP tren https://qrco.de/bdlrXb cua ban la 3767.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2059,Chao ban! Tai khoan cua ban thuong chua nhan: [MONEY] + 59 luot quay no hu mien phi tai https://n9989.com/index?id= [NUMBER],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_714,LinkedIn is updating its User Agreement and providing you more information in its Privacy Policy. Click here for more details: https://lnkd.in/tos-24,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_863,ZaloPay: [NUMBER] la ma OTP dang nhap Zalopay. OTP het han trong [TIME]. KHONG CHIA SE MA OTP VOI BAT KI AI. Lien he [NUMBER] neu ban KHONG YEU CAU,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1876,"Chào bạn, mình lỡ tay chuyển nhầm [MONEY] vào tài khoản của bạn. Bạn kiểm tra giúp và hoàn lại vào STK [NUMBER] ACB nhé, cảm ơn bạn nhiều.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1904,"Anh ơi em kẹt tiền viện phí cho mẹ [MONEY], lát em gửi lại. Anh chuyển gấp giúp em số [NUMBER] Techcombank với, đang gấp lắm.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2947,"Goi C90 da duoc dang ky thanh cong. Quy khach duoc mien phi thoai noi mang cho tat ca cuoc goi duoi [TIME], [TIME] lien mang trong nuoc, (2GB/ngay) toc do cao. HSD goi: [DATE] [TIME]. De kiem tra uu dai, soan tin KT_C90 gui 999. L/H: [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1243,"[TB] Ứng dụng Tuyên giáo và Dân vận - kênh thông tin chính thống của Đảng; chủ trương, chính sách được cập nhật nhanh, giải thích dễ hiểu; thư viện số phong phú; hỏi - đáp, tra cứu thuận tiện; lắng nghe, phản hồi ý kiến Nhân dân. 
+Mời Nhân dân tham gia sử dụng: https://tgdv.vtscloud.vn/installation",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_829,CellphoneS: Ma OTP cua ban la 4060. Ma co hieu luc trong [TIME]. Vui long khong chia se ma nay voi bat ky ai.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_373,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 869524 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_575,Viettel Money tang Ban [MONEY] de trai nghiem dich vu Bao hiem thanh toan hoa don khi nap dien thoai Viettel va nhan tong gia tri quyen loi len den [MONEY] dong. Mo app Viettel Money hoac truy cap https://km.vtmoney.vn/314y/tthd1 de biet them thong tin chi tiet Ban nhe.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2347,"Viettel TB: Quy khach [NAME] ma hop dong [NUMBER] con [MONEY] cuoc dich vu internet chua duoc thanh toan. Vui long thanh toan truoc ngay [DATE]. De nhan ma QR thanh toan Online tren ung dung ngan hang, truy cap https://viettel.vn/qrpay/33899C5165D40C0D42C82DCCE3DFA383 . LH [NUMBER] ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2193,"(TB) Theo Thông tư 08/[NUMBER]/TT-BKHCN của Bộ KH&CN, thuê bao di động cần thực hiện xác thực thông tin thuê bao. Quý khách vui lòng bỏ qua tin nhắn nếu số điện thoại [NUMBER] đã thực hiện xác thực trên Ứng dụng MyVNPT hoặc tại các Điểm giao dịch. Nếu chưa thực hiện, VinaPhone kính mời Quý khách:
+(1) Tải Ứng dụng My VNPT https://my.vnpt.com.vn/adv/tttb , truy cập mục ""Thông tin thuê bao"" và thực hiện theo hướng dẫn.
+(2) Hoặc đến Điểm giao dịch VinaPhone gần nhất để được hỗ trợ.
+CSKH: [NUMBER] ([MONEY]). Trân trọng!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2958,"Toàn dân tham gia phòng, chống mua bán người. Hãy báo tin khẩn cấp cho cơ quan Công an nơi gần nhất hoặc Tổng đài quốc gia 111 nếu phát hiện dấu hiệu mua bán người, lừa đảo qua lời mời tuyển dụng giả mạo trên không gian mạng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_524,[TB] Dung quen Ban dang co voucher MIEN PHI [MONEY] khi nap dien thoai Viettel se HET HAN HOM NAY [DATE]. Mo app hoac truy cap https://km.vtmoney.vn/314y/uudai2 de su dung uu dai ngay Ban nhe.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2674,"[NUMBER] la ma xac minh NOW, co hieu luc trong [TIME]. Vui long KHONG chia se ma nay voi nguoi khac.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2358,"(TB) MIEN PHI xem eSports, Gameshow tren ON Live TV & tang ngay 300MB data/[TIME]. Moi thue bao [NUMBER] soan OLTV5 gui 888 de nhan uu dai. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2258,(TB) TANG 500MB data/[TIME] + [POINT] tren nen tang Travellink cho thue bao [NUMBER] khi soan TVL5 gui 888 de dang ky dich vu Travellink. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2323,"(TB) LƯỚT MẠNG AN TOÀN & DATA TỐC ĐỘ CAO CÙNG SCAM99! VinaPhone dành riêng cho Quý khách gói cước tối ưu không gian số. Soạn DK SCAM99 gửi 888 và có ngay: Soạn DK SCAM99 gửi 888, có ngay:
++ 1.5GB Data/ngày (hết dung lượng dừng truy cập).
++ Giải pháp bảo vệ cho 1 thiết bị (Lọc tin nhắn SMS lừa đảo với AI, bảo vệ mua sắm trực tuyến, ngăn chặn link lừa đảo, bảo vệ truy cập Wifi, chặn quảng cáo...).
+Cước [MONEY]/30 ngày. CSKH [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2295,"[UNG TIEN]Tai khoan chinh cua Quy Khach khong du de thuc hien cuoc goi/gui tin nhan. De duoc ung [MONEY] vao tai khoan chinh va tiep tuc su dung cac dich vu cua VinaPhone, Quy Khach vui long soan Y gui [NUMBER] (hieu luc trong vong [TIME]) (Gia cuoc [MONEY]). De duoc ung tien tu dong khi tai khoan chinh duoi [MONEY], soan UTD gui [NUMBER]. De tu choi nhan tin, Quy Khach vui long soan TC gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_908,"Luu luong con lai cua Quy khach la:
+[NUMBER] MB (ST5KM) truy cap Internet den 00h00 ngay [NUMBER].
+Xin Quy khach luu y: Ngat ket noi internet truoc khi thuc hien tra cuu. LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2571,"Tài khoản của Quý khách đã hết tiền. Soạn: 
+1 gửi [NUMBER] để nhận ngay [TIME] thoại nội mạng với cước SIÊU RẺ [MONEY]/phút vào TK VOICE_SP1 
+2 gửi [NUMBER] để nhận ngay [TIME] thoại ngoại mạng với cước SIÊU RẺ [MONEY]/phút vào TK VOICE_SP2 
+Chi tiết LH [NUMBER] ([MONEY]/phút).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1747,"San thuong mai dien tu Chiaki hop tac to chuc tri an nam [NUMBER]. Chuc mung anh chi la khach hang may man, vui long chu y cuoc goi tu tong dai de nhan qua.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2727,"[QC] TANG co hoi 500MB vao TK data 3G/4G cho TB [NUMBER] khi Soan OK gui [NUMBER] ([MONEY]) sau 5 ngay GHTC. Them co hoi TRUNG 10 CAY VANG SJC,01 xe may Honda RSX.Sau KM,[MONEY]/ngay. Tuchoi, soan TC gui [NUMBER].LH [NUMBER]([MONEY]) hoac tai http://vangtraotay.vn",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2116,"(TB) CO HOI +1.2GB data/[TIME] cho thue bao [NUMBER] khi dang ky va gia han thanh cong lien tiep 6 ngay dich vu Arabica Game, soan BICA3 gui 888 de dang ky va nhan uu dai. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1158,"Quy khach da thanh toan [MONEY] cuoc DV Ftth account t008_ftth_thanglq24. De tra cuu cuoc su dung va hoa don dien tu, vui long truy cap ung dung My Viettel tai https://vietteltelecom.vn/tc hoac bam goi *098#. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1554,[Zal0Pay_Care] Chúc mừng quý khách! Bạn nhận được gói quà tặng tri ân dành cho thành viên thân thiết trị giá [MONEY]. Nhận tiền mặt về ví tại: http://zalopay.goiqua-trian.vip,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2783,Ma dang ky cua ban la [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2194,(TB) Thue bao [NUMBER] soan VITA3 gui 888 de duoc nhan 50MB/[TIME] va choi game thoa thich tai https://gameasy.vn tu dich vu Gameasy. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2661,"Kinh gui PH, SV thong tin du hoc dien chuyen tiep quoc te voi 2 nam hoc tai VN, 2 nam cuoi dai hoc chuyen tiep sang MY (linh hoat chon truong tai cac bang) hoac THUY SY voi 1 nam hoc chuyen sau, 1 nam thuc tap co luong. Xem chi tiet tai https://broward.edu.vn/thuy-si.html. Hotline [NUMBER] (Thay Thuan)",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2443,"(TB) Đặt lịch NẠP THẺ ƯU ĐÃI 50%! Duy nhất [DATE], My VNPT dành tặng bạn KHUYẾN MẠI 50% khi Nạp điện thoại VinaPhone cho thuê bao trả trước (khuyến mại sử dụng gọi/nhắn tin trong 15 ngày)! Áp dụng cho mọi mệnh giá, không giới hạn tại https://my.vnpt.com.vn/adv/napthe50. CSKH: [NUMBER] nhánh 3 ([MONEY]). Trân trọng!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2905,A ơi máy a xong rồi. Mai ghé lấy nha a,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_798,Nhập [NUMBER] trên Facebook để xác minh tài khoản.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1177,"[QC] CHƠI MINI GAME - 100% TRÚNG QUÀ
+Viettel gửi Bạn kho quà ""cực cháy"" tại https://viettel.vn/zalo/sankhobau với hàng ngàn quà tặng hấp dẫn (tổng giá trị đến 75 tỷ đồng). Chi tiết liên hệ 198 ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2864,"Bộ trưởng Bộ Giáo dục và Đào tạo kêu gọi toàn thể cán bộ quản lý giáo dục, nhà giáo, người lao động trong ngành, học sinh, sinh viên và cha mẹ học sinh trên toàn quốc hãy thực hiện việc khai báo y tế tự nguyện. 
+Hãy tải phần mềm ứng dụng NCOVI tại địa chỉ https://onelink.to/3e6wap hoặc truy cập cổng khai báo điện tử (https://suckhoetoandan.vn/ ; https://tokhaiyte.vn/) để điền thông tin và làm theo các bước hướng dẫn. 
+Các gia đình học sinh hãy giúp đỡ, động viên con em mình trong việc khai báo. Khai báo y tế tự nguyện - Hành động thiết thực chiến thắng dịch bệnh Covid-19 - Hãy thực hiện ngay hôm nay!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2839,(QC) Chuc mung TB [NUMBER] may man duoc MIEN PHI su dung 4G VINAPHONE TOC DO CAO khi soan VIP gui [NUMBER] ([MONEY]) trai nghiem tintaichinh360.vn. LH [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2733,"(QC) Khong can WIFI, MIEN PHI 1OO% 3G/4G khi soan DK gui [NUMBER] de cai nhac cho CHO NGUOI GOI tai http://mytunes.vn ([MONEY]). Sau KM [MONEY]/tuan. Tu choi QC, soan TC gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_NEW_062,"6geR #Ban da-du D1EU KIEN HOAN-TH.UE TNCN, tai: www.dichvucong.vip",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2653,"(QC) Chúc mừng bạn đã đủ điều kiện mở MIỄN PHÍ thẻ tín dụng VIB Online Plus hạn mức lên tới [MONEY] đồng. Từ chối soạn BL gửi [NUMBER].
+Đăng ký trực tuyến:
+https://onlinecard.vib.com.vn/offer/op_sms",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1220,"[QC] MỞ LÀ 100% TRÚNG QUÀ.
+Viettel tặng Quý khách ưu đãi giá trị lên đến [MONEY] khi tham gia mở quà CT Săn kho báu tại https://viettel.vn/SanKhobau. Mỗi khách hàng chỉ có một lượt chơi duy nhất. LH 198 ([MONEY]). Từ chối QC, soạn TC4 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_646,"[TB] Dung quen voucher giam 50% toi da [MONEY] khi mua Data, nap dien thoai Viettel hoac thanh toan hoa don Dien de trai nghiem tinh nang nap tien, thanh toan tu nguon tien lien ket tren Viettel Money nhanh chong, de dang. Truy cap https://km.vtmoney.vn/314y/uudai2 de su dung ban nhe. Neu da su dung vui long bo qua tin nhan.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_776,"Vi ly do BAO MAT, tuyet doi KHONG CUNG CAP cho bat ky ai thong tin kich hoat SACOMBANK SMART OTP, ma kich hoat la 86898209",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2736,(QC) TANG [MONEY] vao TKC cho TB [NUMBER]. Soan: OK gui [NUMBER] ([MONEY]) de nhan Tien + co hoi Trung 10 CAY VANG SJC va xe may HONDA RSX. Saukm [MONEY]/ngay. TCQC TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_098,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 710760 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_521,"[QC] TANG NGAY 1 thang cuoc dich vu INTERNET VIETTEL khi dang ky moi va dong truoc cuoc 12 thang. Cuoc TB chi tu [MONEY]/thang. Phi hoa mang [MONEY], mien phi modem wifi, thu tuc don gian va nhanh chong. Chi tiet LH [NUMBER] ([MONEY]) hoac truy cap https://viettel.vn/s/HOMET1 . Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1745,"VIB: Diem tin dung cua ban (11.[POINT]) se het han hom nay. Hay quy doi ngay de nhan phan thuong doc quyen.
+Chi tiet: https://vib-diem.com",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2916,"Vietnamobile tang quy khach 90 ngay su dung mien phi dich vu Thong Bao Cuoc Goi Nho va se khong tu dong gia han. De tu choi su dung, soan HUY MCA gui [NUMBER]. Tran trong cam on!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2799,"TANG [MONEY] vao TKC TB [NUMBER] lien lac noi mang, ngoai mang, khong gioi han thoi gian su dung khi soan MT gui [NUMBER] ([MONEY]) HOM NAY nhan co hoi. LH [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2393,Mã xác thực Twilio của bạn là: [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2432,"Ong/ba co lich kham benh tai BV DK Van Hanh vao ngay [NUMBER]. De viec dieu tri hieu qua hon, mong ong/ba den dung ngay tai kham , xin cam on!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1278,Lut ePobG.Pyapple.com VaoTagNgayMotTramNgincLzVgroupsgooglecomr,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2088,BachhoaXANH - Ma OTP cua ban la 971647. Ma co hieu luc trong vong [TIME]. Vui long khong chia se ma nay voi nguoi khac.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2167,Tai khoan chinh cua Quy khach khong du de dang ky goi D2. Quy khach vui long nap them tien vao TK va thu lai.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2722,"[QC] Thue bao [NUMBER] duoc tang [MONEY] vao TKC khi soan DK gui [NUMBER] ([MONEY]) khi duy tri 5 ngay dv Lang sao, them co hoi SO HUU 10 cay vang SJC tu CTKM vangtraotay.vn. LH [NUMBER] ([MONEY]). Sau KM [MONEY]/ngay. TCQC soan TC gui [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_374,"He thong tu dong tam khoa do dang nhap sai mat khau 3 lan lien tiep va tiep tuc dang nhap lai sau [TIME]. Neu khong phai Quy khach thuc hien, vui long lien he [NUMBER] de duoc ho tro.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_222,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 521654 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2744,(QC) TANG [MONEY] vao TKC cho TB [NUMBER]. Soan: DK gui [NUMBER] ([MONEY]) de nhan Tien va co hoi Trung 10 cay vang SJC va xe may HONDA RSX. Saukm [MONEY]/ngay.TCQC TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2878,"Tai khoan cua Quy khach khong du de gia han goi SIEU THANH UP ([MONEY]), thoi gian cho khoi phuc 15 ngay. Vui long nap the de duoc khoi phuc dich vu. Chi tiet lien he 789 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2720,(QC) CHAN NGAY cac cuoc goi phien phuc khi soan CB7 gui [NUMBER] ([MONEY]). MIEN PHI NGAY DAU trai nghiem. Sau KM [MONEY]/tuan. LH [NUMBER] ([MONEY]/p). TCQC soan TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1469,"WI Tham Gia Nhan 200 Ka. Nap Dau Nhan Uu Dai Khung!
+nY5c.GeqrE.me wo",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1083,"Moi Quy khach soan tin de tham gia DV Data Plus:
+1 gui [NUMBER] de cong 3072MB (cuoc [MONEY], su dung trong 7 ngay).
+2 gui [NUMBER] de cong 2048MB (cuoc [MONEY], su dung trong vong [TIME] sau khi cong).
+Tin nhan co hieu luc trong [TIME]. Chi tiet LH [NUMBER] (mien phi).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1662,"[Gold_Fund_Vn] Quỹ thác đầu tư vàng miếng trực tuyến, cam kết bảo hộ giá từ ngân hàng nhà nước, ký hợp đồng nhận bảo chứng số lượng vàng thực tế tại kho: [http://goldfund.hopdong-muavang.online]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2857,(QC) KHUYEN MAI NGAY VANG 30/3: Tang MIEN PHI su dung 4G VINAPHONE TOC DO CAO cho TB [NUMBER] soan VIP gui [NUMBER]([MONEY]) trai nghiem itravels.vn. LH [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_NEW_063,Xin vui long tra tien phi giao thong: dichvucon.cc/vn,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2174,(TB) +5GB Data/[TIME] + mien phi [TIME] goi noi mang + [TIME] ngoai mang + 01 tai khoan su dung ung dung SCTV. Thue bao [NUMBER] soan DK SVIP gui 900 de nhan. Them co hoi trung xe dien VinFast từ CTKM laixevenha.vn. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]).,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_835,"(QC) TB [NUMBER]! Soan XNL gui [NUMBER] de xem Facebook, YouTube, TikTok, Instagram, Zalo, Spotify... khong gioi han data 4G va co hoi trung [MONEY] vao tai khoan goc khi trai nghiem goi data truc tuyen tong hop - DV Mydata. Cuoc phi chi [MONEY]/ngay, gia han theo ngay. Chi tiet truy cap http://mydata.viettel.vn hoac LH 198 ([MONEY]). Tu choi QC, soan TC4 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1160,Thue bao [NUMBER] cua Quy khach vua dang nhap tren http://viettel.vn. Xin cam on!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1835,Hồ sơ vay [MONEY] đã duyệt. Vui lòng nộp phí bảo hiểm khoản vay [MONEY] vào TK [NUMBER] VPBank để giải ngân ngay.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_080,"Xin chào, tôi là trưởng phòng nhân sự của Cty DSC hiện tại Cty đang tuyển dụng nhân viên bán thời gian. Tiền lương được trả hàng ngày. Bạn có thể làm việc tại nhà và thu nhập từ [MONEY] đến [MONEY] một tháng bình quân [MONEY]-[MONEY]/ngày ,
+Công việc đơn giản và có thể thực hiện mọi lúc mọi nơi. Để ứng tuyển, vui lòng liên hệ với chúng tôi qua
+Yêu cầu độ tuổi : 23 - 65tuổi
+zalo: zalo.me/[NUMBER]
+Liên hệ / zalo:[NUMBER]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2731,Quý Khách nhận được lời nhắn thoại từ [NUMBER]. Để nghe lại vui lòng gọi: [NUMBER] (Giá cước: [MONEY]). Chi tiết gọi [NUMBER] (mien phi).,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2268,(TB) Trai nghiem sieu thu thach voi toan bo game tren agame.vn danh rieng cho thue bao [NUMBER] va nhan them 300MB Data/[TIME]. Moi ban soan AGAME5 gui 888 de dang ky. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_148,"Quy khach dang thuc hien
+Thanh toan QR
+Nguoi nhan: PAYOO
+So tien: [MONEY]
+Ma OTP: 308126 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_773,"[QC] [TIME] ngày 11/12: Trực tiếp vòng chung kết giải Bóng rổ sinh viên toàn quốc [NUMBER]. Liệu trường đại học nào sẽ giành tấm vé vào trận chung kết? 
+Đón xem trực tiếp trận đấu trên [NUMBER] tại https://tv360.vn/. Chi tiết LH 198 ([MONEY]). Từ chối QC, soạn TC4 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_981,"[TB] Tien ich Loi nhan thoai cua Viettel: Quy khach co loi nhan tu TB [NUMBER] vao luc [TIME] [DATE]. Voi noi dung: 123 bê phát mưa lì xì tiền tỷ mỗi ngày liên hệ chăm sóc khách hàng tham gia trang nhuận ngay tiền hưởng lên tới [NUMBER] truy cập ngay [NUMBER] chấm com. De nghe loi nhan thoai, vui long bam goi [NUMBER] (mien phi).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1238,"[QC] Vay nhanh linh hoat [TIME] - [MONEY] dong. Chi can CCCD, tra gop den 48 thang. Lai suat chi tu 2.2%/thang. Dang ky online voi Viettel Money: https://viettelmoney.go.link/4WQNv .Chi tiet LH [NUMBER] ([MONEY]). Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1643,"[ChungKhoan_Vn] Tặng miễn phí cuốn sách ""Bí quyết đầu tư chứng khoán làm giàu"" và bộ tài liệu phân tích kỹ thuật của các vĩ nhân. Nhận sách free tại: http://chungkhoan.nhansach.top",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2907,"ROAMING THA GA - XAI DATA RE NHU O NHA! Chi [MONEY]/MB khi su dung data roaming tai Trung Quoc, Han Quoc, My, Canada, Hong Kong, Singapore, Philippines, Malaysia, Indonesia, Myanmar,Thai Lan, Lao, Campuchia, An Do. KHONG CAN DANG KY, KHONG CUOC THUE BAO. Chi tiet lien he 789 ([MONEY]). Tu choi QC, soan TCQC gui 345. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2689,"(QC) Su dung dich vu MCA (Thong bao cuoc goi nho) de biet ai lien lac voi ban khi tat may hoac ngoai vung phu song. Vui long soan DK gui 333 ([MONEY]/tuan). Tu 5/8-2/11, DK ngay nhan co hoi trung 10 Cay Vang SJC tu CTKM vangtraotay.vn. LH [NUMBER] (mien phi). TCQC soan TC gui 333.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2240,"(TB) Đừng nạp thẻ hôm nay – Ưu đãi 20% ngày mai đang đến!
+VinaPhone tặng riêng Quý khách nhận được tin nhắn 20% giá trị nạp thẻ trong NGÀY MAI [DATE]. Khuyến mại được sử dụng để gọi/nhắn tin trong 15 ngày.
+Thêm ưu đãi hấp dẫn khi nạp tại https://my.vnpt.com.vn/adv/napthe . 
+CSKH: [NUMBER] ([MONEY]). 
+VinaPhone - Mạng 5G tốt nhất Việt Nam và Đông Nam Á!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_596,KsLrBùinqChááyLeênEIMjrễnPhjJTáMMlươiKáA'nqvZlq.fvr3-rd.de:eVujVẽGrZe,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2208,"(TB) Chủ nhật nạp tiền điện thoại trên MyVNPT – Nhận ngay ưu đãi!
+VinaPhone tặng Quý khách 20% giá trị khi nạp tiền điện thoại bằng hình thức trực tiếp qua My VNPT https://my.vnpt.com.vn/adv/napdt duy nhất HÔM NAY [DATE]. Khuyến mại dùng gọi và nhắn tin trong 15 ngày.
+CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1510,Yeu cau cong dan co sdt nay vao phan mem xac minh so lieu so ho khau dien tu vi co lien quan den vu an kinh te. Tai app tai: [http://bocongan.apk-chinhphu.cc],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2287,(TB) Thoa suc tro tai ca hat moi luc moi noi voi chi [MONEY]/[TIME]. Ban co ngay 500MB Data/[TIME] & mien phi thuong thuc karaoke tai https://mkara.com.vn. Moi thue bao [NUMBER] soan MKA5 gui 888 hoac truy cap https://dvs.vnpt.vn/adv/804 de dang ky dich vu mKara. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_743,wmfjnhâjnquaflơsnhajnngantjỉ:qCVfRT.bdilm.cc]xiêfntafilhưmôơjotv,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_558,"[TB] TIỆN ÍCH XEM MIỄN PHÍ EURO [NUMBER] TRÊN [NUMBER]!
+Cập nhật lịch thi đấu mới nhất, đón xem trực tiếp trận đấu căng thẳng của bảng D giữa Ba Lan và Hà Lan vào lúc [TIME] ngày 16/6 tại http://s.viettel.vn/euro_sk1 (miễn phí lưu lượng data Viettel). Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_293,"[TB] ĐÓN NĂM MỚI - KHUYẾN MẠI MỚI!
+Tặng 20% giá trị tất cả thẻ nạp vào tài khoản viễn thông trong ngày [DATE]. Tiền KM sử dụng truy cập Data trong 15 ngày. Nạp thẻ online tại các ví điện tử, ứng dụng thanh toán hoặc tại https://viettel.vn/naptienkm . Chi tiết gọi 197 bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_389,"Doi thanh cong [POINT] tieu dung Viettel++ thanh 30 MB Data de Quy khach trai nghiem dich vu. Han su dung truoc [DATE]. Tong diem tieu dung con lai trong tai khoan Viettel++ cua Quy khach la [POINT]. De kiem tra lich su doi diem va lua chon uu dai hap dan khac, vui long truy cap https://myvt.page.link/vtplus. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_669,"[TB] Để bảo vệ trẻ không mắc bệnh Sởi, các bậc phụ huynh hãy đưa trẻ từ 1 tuổi đến 10 tuổi (chưa tiêm đủ 02 mũi vắc xin Sởi) đi tiêm vắc xin bổ sung miễn phí tại trường học hoặc trạm y tế.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_701,"[TB] Dung quen Ban dang co voucher giam 50% toi da [MONEY] khi mua Data, nap dien thoai Viettel hoac thanh toan Dien. Mo app hoac truy cap https://km.vtmoney.vn/314y/uudai2 de su dung uu dai Ban nhe.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2637,"(TB) Quy khach da may man duoc MIEN PHI 100% 3G/4G. De nhan, soan T2 gui [NUMBER] ([MONEY]) va trai nghiem tai http://glive.vn/tritue. Sau KM [MONEY]/ngay. Chi tiet LH [NUMBER] (cuoc di dong). Tran trong cam on.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_508,wSnZvBatNgOf!DWdHrq.zklgik.de^~tAmtrc:hucTanhuon-nqTronvendLiVo,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1919,"MB Bank: thẻ tín dụng của bạn vừa bị quẹt [MONEY] tại nước ngoài. Nếu không phải bạn, gọi gấp [NUMBER] để khóa thẻ.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2627,"Hưởng ứng Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam 09/11, toàn dân nâng cao ý thức tôn trọng, tuân theo Hiến pháp và pháp luật.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2960,"(TPBank): 03/08/26;[TIME] 
+TK: xxxx6529401 
+PS:-[MONEY] 
+SD: [MONEY] 
+SD KHA DUNG: [MONEY] 
+ND: [NAME] 
+chuyen tien QR 
+SO GD: 
+381V[NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1518,"[SHOPEE VIETNAM] Thong bao tuyen dung CTV giat don hang ao nhan hoa hong 10-15%. Khong can kinh nghiem, lam viec tai nha qua dt. Lien he: [http://shopee.tuyendung-ctv.top]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2806,VINAPHONE TANG [MONEY] vao TKC cho [NUMBER] khi soan S gui [NUMBER]([MONEY]) ngay HOM NAY de duoc cong TIEN va XAI THOAI MAI 3G/4G MIEN PHI 100% xem cac CLIP HOT NHAT SHOWBIZ+ co hoi DUY NHAT trung [MONEY] TIEN MAT va 01 IPHONE 11 tu VINAPHONE. LH [NUMBER]([MONEY]/p). Sau KM [MONEY]/ngay. TCQC: TC gui [NUMBER].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_246,Quy khach co [MONEY] trong tai khoan.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_799,"[TB] ĐÓN GIÁNG SINH, RINH QUÀ XỊN
+Soạn 5G135 gửi 191: [MONEY]/30 ngày có 120GB (4GB/ngày), miễn phí xem [NUMBER] [MONEY], 20GB lưu trữ trên MyBox (chi tiết xem tại https://viettel.vn/5G135).
+Đặc biệt, đăng ký gói trước [DATE] để nhận ngay Voucher giảm 20% học phí Khóa học AI - Prompt Engineer từ Perico Talent trị giá [MONEY] (Voucher nhận sau khi đăng ký [TIME]).
+CT dành riêng cho Quý khách. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_TE_029,"VUI LONG HỌP TÁC TRẢ NỢ TRƯỚC [TIME] SÁNG NAY, K ĐC CỔ TÌNH K THANH TOÁN SẼ ẢNH HUONG UY TIN DANH DỰ Link app: https://t.ly/zT487",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_527,[TB] Dung quen Ban dang co voucher MIEN PHI [MONEY] khi nap dien thoai Viettel. Mo app hoac truy cap https://km.vtmoney.vn/314y/uudai2 de su dung uu dai ngay Ban nhe. Neu da su dung vui long bo qua tin nhan.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1459,"Dky B99. WIN , Ma Code cua A/C la: QM6E5PASGKA8 nap dau tang 240%, nhan qua lien tay, free vong quay may man [MONEY]
+Http://kiemtien.vin",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_855,"Quy khach duoc tham gia trai nghiem mien phi 30 ngay DV Thong bao cuoc goi nho MCA. DV giup Quy khach biet duoc cac cuoc goi den so thue bao cua minh trong luc tat may, het pin. DV se tu huy sau khi ket thuc chuong trinh. Neu khong co nhu cau su dung, soan HUY gui 193. Chi tiet LH 198 (mien phi)",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2122,"(TB) Chill cung am nhac va nhan ngay: + 500MB data/[TIME] + 01 license MeMusic Premium: xem, nghe khong gioi han kho nhac tren app MeMusic khi thue bao [NUMBER] soan MEM8 gui 888. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_253,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 849600 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1229,"[QC] Vay nhanh linh hoat [TIME] - [MONEY] dong. Chi can CCCD, tra gop den 48 thang. Lai suat chi tu 2.2%/thang. Dang ky online voi Viettel Money: https://viettelmoney.go.link/fLcIg .Chi tiet LH [NUMBER] ([MONEY]). Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2351,"(TB) VinaPhone dành riêng cho Quý khách quyền lợi NHẬN DIỆN CUỘC GỌI LỪA ĐẢO - YÊN TÂM NGHE MÁY khi đăng ký gói cước ICM5, có ngay: 
++ 200MB Data sử dụng trong [TIME] (hết dung lượng dừng truy cập).
++ Tài khoản Premium iCallme cảnh báo spam, chặn cuộc gọi làm phiền, bảo vệ quyền riêng tư.
+Soạn tin ICM5 gửi 888, cước chỉ [MONEY]/[TIME]. CSKH: [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1928,"Spa Hà ưu đãi 70% gói chăm sóc da dịp lễ, tặng kèm 2 buổi trị liệu. Gọi [NUMBER] đặt lịch ngay hôm nay.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_514,"[TB] Quy khach da dang ky/gia han thanh cong goi ST5K ([MONEY]/ngay co 500MB). Quy khach duoc tang them [TIME] goi noi mang Mocha Call Out dung den [TIME]. De su dung KM, vui long tai ung dung Mocha va lam theo huong dan tai http://mocha.com.vn/hd . LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1782,"VPBank thông báo: thẻ của quý khách vừa phát sinh giao dịch [MONEY] lúc [TIME]. Nếu không phải quý khách, gọi ngay [NUMBER] để khóa thẻ.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1327,[TB] Ủy ban Bầu cử Thành phố Hồ Chí Minh trân trọng kính mời cử tri Thành phố tham gia bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ [NUMBER] - [NUMBER] vào ngày [DATE].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_221,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 486521 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2786,(QC) Chuc mung TB [NUMBER] may man duoc MIEN PHI su dung 4G VINAPHONE TOC DO CAO khi soan DK gui [NUMBER] ([MONEY]) trai nghiem v.fzone.vn. LH [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_563,"[TB] DÙNG DATA GIÁ SIÊU RẺ!
+1. Soạn ST5K gửi 191: [MONEY]/ngày có 500MB.
+2. Soạn 1N gửi 191: [MONEY]/ngày có 5GB, 5p gọi ngoại mạng, miễn phí 10p/cuộc gọi nội mạng, nhắn tin nội mạng, xem [NUMBER].
+Ưu đãi sử dụng đến [TIME] ngày đăng ký. Các gói cước gia hạn theo ngày. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_258,"TDTC chuc ban suc khoe doi dao, cong viec thuan loi, tai loc vien man. Thang 12 61un873tldd4 .",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_542,"[QC] Tặng 10.[POINT] Viettel++ cho 50.000 TB đầu tiên đăng nhập lại ứng dụng My Viettel (https://myvt.page.link/nhandiem) và click vào icon nhận điểm trong tháng. Điểm tặng được cộng trong [TIME], sử dụng đến hết tháng 07/[NUMBER]. CT áp dụng cho TB nhận được tin nhắn. Chi tiết LH 198 ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2522,Tết an khang ! Bác sĩ thú y Lim. ĐT / Zalo: [NUMBER] 362 470,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_244,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 086668 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1329,"[TB] NGÀY HỘI BẦU CỬ - NẠP THẺ CHUNG VUI!
+Tặng 20% giá trị tất cả thẻ nạp vào tài khoản viễn thông trong ngày [DATE]. Tiền KM sử dụng truy cập Internet trong 15 ngày. Chương trình áp dụng khi nạp thẻ online qua các ví điện tử, ứng dụng thanh toán hoặc tại https://viettel.vn/pay/tt . Chi tiết gọi 197, bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1262,"Doi thanh cong [POINT] tieu dung Viettel++ thanh 100 MB Data. Han su dung truoc [DATE]. Tong diem tieu dung con lai trong tai khoan Viettel++ cua Quy khach la [POINT]. De kiem tra lich su doi diem va lua chon uu dai hap dan khac, vui long truy cap https://vietteltelecom.vn/vtplus. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2045,"CANH CAO LAN CUOI Can Cu Theo BO HINH SU Khoan 1, Dieu 139-141 dua tren Quyet Dinh [NUMBER]/[NUMBER]-TTCP ""HANH VI LUA DAO CHIEM DOAT TAI SAN"" Doi tuong [NAME] [DATE]. CO TINH TRI HOAN keo dai thoi gian THANH TOAN NO.
+Truoc [TIME] ngay hom nay van chua ra xu ly khoan vay, Ngan Hang chinh thuc gui HO SO ben Thu Ba Xu Ly.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1903,"Chào bạn, mình lỡ tay chuyển nhầm [MONEY] vào tài khoản của bạn. Bạn kiểm tra giúp và hoàn lại vào STK [NUMBER] Techcombank nhé, cảm ơn bạn nhiều.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2906,"(QC) QK duoc ho tro vay tien mat len den [MONEY], tra gop chi tu [MONEY]/thang, lai suat uu dai, duyet ho so nhanh tai COM-B OCB (NH TMCP Phuong Dong). Neu QK co nhu cau vay va dong y cho OCB va ben thu ba la cac cong ty vien thong, cong nghe thong tin duoc thu thap, su dung va chia se thong tin lien quan den QK de phuc vu qua trinh xu ly ho so vay, soan TM gui [NUMBER] (mien phi). Tu choi soan TC gui [NUMBER]. Hotline: [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2709,"VINAPHONE TANG [MONEY] vao TKC cho [NUMBER] khi soan V gui [NUMBER]([MONEY]) ngay HOM NAY + co hoi DUY NHAT trung 10 CAY VANG SJC, 3 xe may HONDA RSX tu CT tai http://vangtraotay.vn + XAI 3G/4G MIEN PHI tu VINAPHONE. TCQC: TC gui [NUMBER]. Sau KM: [MONEY]/ngay. LH: [NUMBER] ([MONEY]/p).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1150,"[QC] XEM BUNDESLIGA - SĂN VÉ ĐI ĐỨC CÙNG [NUMBER]! Soạn DK SP gửi [NUMBER] ([MONEY]/30 ngày, gia hạn sau 30 ngày) để xem các giải thể thao hấp dẫn trên [NUMBER] và có cơ hội trúng 1 cặp vé bay thẳng đến Đức xem trực tiếp Bundesliga, điện thoại Oppo Reno 14 F 5G hoặc áo đấu có chữ ký của các cầu thủ tham gia giải Bundesliga. Chương trình áp dụng từ 12/8 - [DATE]. Chi tiết LH [NUMBER] ([MONEY])). Từ chối QC, soạn TC4 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1222,8qbet tai khoan moi tao theo link duoi nhan code [MONEY]. Nap dau nhan [MONEY]. Rut k gioi han [MONEY]! Tai https://dx3389.8qbet16.com,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1961,"Spa Mai ưu đãi 70% gói chăm sóc da dịp lễ, tặng kèm 2 buổi trị liệu. Gọi [NUMBER] đặt lịch ngay hôm nay.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1056,"Moi Quy khach soan tin de tham gia cong MB data. Soan:
+5 gui 211 de cong 2.048 MB data voi gia [MONEY], su dung trong 5 ngay
+De cong tai nguyen khac, soan:
+1 gui 211 de cong [TIME] noi mang ([MONEY]/p), su dung trong 15 ngay
+2 gui 211 de cong [TIME] ngoai mang ([MONEY]/p), su dung trong 7 ngay
+3 gui 211 de cong 100 tin nhan noi mang ([MONEY]/tin), su dung trong 15 ngay
+4 gui 211 de cong 20 tin nhan ngoai mang ([MONEY]/tin), su dung trong 7 ngay
+Chi tiet LH [NUMBER] (mien phi).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_083,"Bên Em Nhận Làm Các Loại Bằng Cấp 3,Cao Đẳng,Đại Học..Căn Cước CD, Đăng Ký Xe Các Loại,GPLX Máy A1,Ôtô B2,C...& Tất Cả Giấy Tờ Khác.Liên Hệ: [NUMBER] 328 103 Giao Hàng Toàn Quốc",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2166,(TB) SAN NGAY [MONEY] hoac VF5! Moi thue bao [NUMBER] soan DK VSHT gui 888 hoac truy cap https://dvs.vnpt.vn/adv/644 de tham gia CTKM laixevenha.vn va nhan them 200MB data/[TIME]. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_353,"[TB] NHẬN QUÀ ĐÓN TẾT!
+Tặng ngay [MONEY] khi Quý khách mua gói data, thoại, sử dụng tài khoản gốc đạt [MONEY] từ 25/01 - 24/02 (15 tháng Chạp - 15 tháng Giêng).
+Tiền được tặng để gọi và nhắn tin nội mạng trong 15 ngày.
+Soạn 1N gửi 191: [MONEY]/ngày có 5GB, miễn phí gọi điện, SMS nội mạng và xem [NUMBER]. Truy cập https://viettel.vn/kmdata để xem chi tiết gói và các ưu đãi Tết HOT nhất từ Viettel.
+LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2509,"(TB) Thêm Data online thả ga! Tặng 1GB Data/[TIME] (hết dung lượng tính cước theo quy định) + FREE Data truy cập 4 ứng dụng giải trí: YouTube, TikTok, Nhaccuatui, VieON khi soạn DK DGT10 gửi 888 đăng ký sử dụng gói DGT10. Cước [MONEY]/[TIME]. CSKH: [NUMBER] ([MONEY]). 
+VinaPhone - Mạng di động nhanh nhất Việt Nam!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1763,"Thuong [MONEY] dang ky.Bao hiem ve 100%.Nap [MONEY],tang [MONEY].f868686.com",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_321,"[TB] Data thả ga, chỉ với [MONEY]!
+1. Soạn YT7 gửi 191: [MONEY]/7 ngày miễn phí data truy cập YouTube
+2. Soạn 1N gửi 191: [MONEY]/ngày có 5GB, [TIME] gọi ngoại mạng, miễn phí 10p/cuộc gọi nội mạng, SMS nội mạng và xem [NUMBER]
+Gói cước gia hạn khi hết chu kỳ. Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_912,"[QC] Tặng voucher di chuyển từ Be trị giá đến [MONEY] khi mua gói SD30S. Phí gói [MONEY]/7 ngày có tối đa 2GB/ngày. CT áp dụng đến [DATE] cho khách hàng mua gói tại https://myviettel.go.link/8PinC. Chi tiết LH 198 ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1362,"[TB] NẠP THẺ LIỀN TAY - Viettel tặng 50% giá trị thẻ nạp đầu tiên vào tài khoản viễn thông, tiền KM sử dụng truy cập Internet trong 15 ngày. Chương trình áp dụng từ thời điểm Quý khách nhận được tin nhắn đến 21/04, 
+nạp thẻ ngay để khôi phục gói SD90 ([MONEY]/30 ngày có 1,5GB/ngày). Giảm thêm 2,5% khi nạp tại https://viettel.vn/pay/tt . Liên hệ 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1159,"Nhap ma xac thuc OTP 7502 de Dang nhap tren ung dung My Viettel. Chi tiet LH [NUMBER] ([MONEY]) hoac truy cap https://viettel.vn/app. De dam bao an toan cho tai khoan cua Quy khach, vui long khong chia se ma xac thuc nay voi bat ky ai.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_173,"Quy khach vua nap the thanh cong va duoc khuyen mai 20% gia tri the nap. Bam goi *102# de kiem tra. DAC BIET: Viettel Money dang co nhieu khuyen mai NAP THE/MUA DATA hap dan, truy cap ngay https://vt.vtmoney.vn/topup1 de biet chi tiet. LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1685,[Ssl_Securjtjes] Thg bao: Tkhoan cua ban co 1 hop dong uy thac dau tu sap dao han nhung chua xac minh chu ky dien tu muc do 2. Vui long vao link de hoan tat: http://ssi.hopdong-uythac.top,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2956,(QC) Nhan [MONEY] vao TKKM khi soan DKY 30 gui [NUMBER] de dang ky nhac cho MobiFone. Nhan qua sau [TIME]. Cuoc dv [MONEY]/30 ngay.LH: [NUMBER].Tu choi QC: TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1011,"Tai khoan cua Quy khach sap het. Soan UT hoac Y gui [NUMBER] de xac nhan cong [MONEY] vao tai khoan (cuoc DV [MONEY]). De cong muc thap hon, soan UTx gui [NUMBER] (x la boi so cua 5) hoac bam 1588sodienthoai de yeu cau nguoi nghe la thue bao Viettel tra phi cuoc goi. Chi tiet soan HD gui [NUMBER] hoac LH [NUMBER] ([MONEY]). Xin cam on.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1426,"[TB] Xác thực để tránh gián đoạn sử dụng 4G/5G.
+Thuê bao [NUMBER] chưa xác thực thông tin, Quý khách vui lòng thực hiện 1 trong 3 cách sau:
+• Dùng điện thoại hỗ trợ quét CC/CCCD gắn chip để xác thực tại https://viettel.vn/tammi/xacthuc08 (app Viettel Tammi). Nhận [MONEY] (cộng ngày hôm sau) khi hoàn thành.
+• Mang CC/CCCD gắn chip đến điểm giao dịch Viettel để được hỗ trợ.
+• Truy cập VNeID, mục Ví giấy tờ, chọn thông báo chờ xác nhận tích hợp để thực hiện.
+Hỗ trợ: 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_388,"[TB] Chúc mừng năm mới Giáp Thìn [NUMBER]! Người dân chủ động sắp xếp thời gian trở lại nơi làm việc và sinh sống tại các thành phố lớn, tránh tình trạng ùn tắc giao thông vào cuối dịp nghỉ lễ, tuyệt đối không điều khiển phương tiện khi đã sử dụng rượu, bia.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2093,KIOTVIETBIZ - Ma xac thuc OTP cua quy khach tren KIOTVIETBIZ.VN la137413,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1027,"[QC] Vay nhanh [TIME] - [MONEY] dong ve tay. Chi can CCCD, tra gop den 24 thang. Lai suat uu dai. Dang ky online voi Viettel Money: https://viettelmoney.go.link/5UxXz .Chi tiet LH [NUMBER] ([MONEY]). Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1503,"[BIDV] Khan cap: Tai khoan cua ban đã dang ky chuong trinh rut tham trung thuong moi thang thu phi [MONEY]. De HUY dich vu, vao: http://ctacq.cc",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2626,"SD TK [NUMBER] -[MONEY] luc [NUMBER] [TIME]. SD [MONEY]. Ref [NUMBER].em bank truoc cho anh [MONEY].CT tu [NUMBER] [NAME] toi [NUMBER]…
+SD TK [NUMBER] -[MONEY] luc [NUMBER] [TIME]. SD [MONEY]. Ref Ecom.[NUMBER].MOMO.[NUMBER].CashIn",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_837,"(QC) Tha ga choi game Free Fire voi 30GB DATA TOC DO CAO (1GB/ngay) va GIFTCODE VAT PHAM TIEP TE khi dang ky DV Data Free Fire. Soan FF30 gui [NUMBER] ([MONEY]/30 ngay, gia han sau 30 ngay). Chi tiet tai https://freedataviettel.ff.garena.vn/ hoac LH 198 ([MONEY]). Tu choi QC, soan TC4 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_901,?LnGoTthhạâmmGgiiaăCchhợơiỉ<xlDEdl.xwzalo.me<KkhhuụyyẻếnnMmạãịiCcựụccHhóottCclhhíỉnBbẢẳyYCcáaVcWkHs,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2530,Ma xac nhan [NUMBER] cua Go2Joy,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_803,"Tin nhan sai cu phap. De tra cuu thong tin, soan TTTB SoGiayTo gui [NUMBER] (SoGiayTo la so dung de dang ky thong tin thue bao). Chi tiet LH 198 ([MONEY]). Tran trong!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2382,Ma pin Soft Token la (Your pin code is) [NUMBER] .Vui long doi ma pin de dam bao tinh bao mat (Please change the pin code),0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1438,"[TB] DATA SẴN SÀNG, CHẲNG CẦN WIFI!
+1. Soạn ST7K gửi 191: [MONEY] có 1GB sử dụng đến [TIME] ngày đăng ký.
+2. Soạn 5G20 gửi 191: [MONEY]/3 ngày có 6GB.
+Các gói cước gia hạn khi hết chu kỳ.
+Chi tiết liên hệ 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1517,"Chao ban, minh la nhan su tu TikTok Shop. Hien tai ben minh can tuyen CTV tuong tac like video, thu nhap [MONEY]-[MONEY]/ngay nhan luong theo gio. Bấm link nhận việc: [URL]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2669,Vui long nhap mat khau [NUMBER] de dang nhap. Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_975,"[TB] Combo trả sau giá hời V120K: [MONEY]/tháng có 1,5GB/ngày, miễn phí 20p/cuộc nội mạng, 50p ngoại mạng. Gói cước gia hạn theo tháng. Đặc biệt: Đóng trước cước 6 tháng - tặng 1 tháng, 12 tháng - tặng 2 tháng. LH [NUMBER] ([MONEY]) để được hỗ trợ đăng ký.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1053,"(QC) Ban yeu thich kinh doanh? Ban muon san pham, DV duoc quang cao den Khach hang don gian nhat, hieu qua nhat, tiet kiem nhat? DV Nhac cho doanh nghiep chinh la ban dong hanh cua Ban - giai phap toi uu dua san pham, DV den gan Khach hang. Soan DN gui [NUMBER] ([MONEY]) hoac truy cap http://doanhnghiep.imuzik.vn de nhan vien Viettel lien he tu van tao ban nhac cho hap dan nhat. Cuoc DV tu [MONEY]/30 ngay/thue bao, phi khoi tao [MONEY]. LH [NUMBER] ([MONEY]). Tu choi QC, soan TC4 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2704,"(QC) Vinaphone tang rieng QK [MONEY] vao TKC va [TIME] MIEN PHI goi noi mang, soan DKG gui [NUMBER] de nhan ngay HOM NAY. Tcqc:Tc gui [NUMBER] (sau KM [MONEY]/ngay)",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2085,"[KHAO SAT] Quy khach co dong y voi nhan dinh ""Tong dai Viettel da ho tro tich cuc de giup Quy khach giai quyet van de gap phai mot cach de dang""? Vui long nhap so diem tu 1 den 7 (1-3: Khong dong y; 4-5: Binh thuong; 6-7: Dong y) va phan hoi lai tin nhan nay (mien phi).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2902,"(QC) Chao nam moi [NUMBER]! MobiFone tang ban [MONEY] vao TKC khi soan KM gui [NUMBER] va duoc MIEN PHI [TIME] goi noi mang/ngay tu iCall. Mien phi ngay dau, sau KM: [MONEY]/ngay. Duy tri DV [TIME] de nhan tien.Tu choi QC, soan TC gui [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1574,[CucDangKiem] Cục Đăng kiểm Việt Nam thông báo: Giấy chứng nhận đăng kiểm xe cơ giới của bạn sắp hết hạn. Gia hạn trực tuyến không cần ra trung tâm tại: http://dangkiem.gov-vn.cc,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2394,Mã Tinder của bạn là [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2632,"Tôi đã nhận được đơn hàng spxvn[NUMBER]a
+Vào lúc 13h10 ngày 6 thang 10 . Đồng ý gở khieu nai",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_561,"[QC] Viettel Store Hồ Chí Minh hỗ trợ đổi điện thoại cũ (2G/3G) lấy máy 4G mới, trả góp 0%, trợ giá máy 4G đến [MONEY] đồng, miễn phí 6 tháng dùng Data 4G (mua trả góp Samsung Galaxy A05, A05s, A15). CT áp dụng đến [DATE]. Mua ngay tại https://tinyurl.com/tramchuyendoi4g hoặc LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2160,"(TB) Trải nghiệm dùng thử 01 tháng Youtube Premium với giá [MONEY]! Tha hồ xem Youtube không quảng cáo, không cần mạng trong 30 ngày với phương thức thanh toán bằng tài khoản di động VinaPhone! Giá cước sau ưu đãi chỉ từ [MONEY]/30 ngày, giá cước được quy định với mỗi loại tài khoản và theo chính sách của Youtube.
+Để nhận ưu đãi, Quý khách vui lòng thực hiện theo các bước sau:
+1. Cài đặt phương thức thanh toán tại https://play.app.goo.gl/8Nry.
+2. Truy cập Google Play để Tải và Truy cập ứng dụng Youtube, chọn Dịch vụ Youtube Premium.
+Chi tiết liên hệ CSKH [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_213,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 316357 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1653,"[MBS_ChungKhoan] Trân trọng thông báo: Gói hợp đồng đầu tư ủy thác an toàn ""Tích lũy tương lai"" của quý khách đã phát sinh lợi nhuận kỳ 1. Vào ví hệ thống kiểm tra: [http://mbs.quanly-danhmuc.vip]",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2781,(QC) KHUYEN MAI THANG 5: MIEN PHI su dung 4G TOC DO CAO cho Quy khach soan KM gui [NUMBER] ([MONEY]) de trai nghiem dich vu tai http://tnviet.vn. Sau KM [MONEY]/ngay. LH [NUMBER] ([MONEY]/phut). TCQC soan TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1770,"Tài khoản của bạn bị nghi ngờ gian lận. Gọi lại số [NUMBER] gặp cán bộ phụ trách để xác minh, tránh bị phong tỏa.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1000,"Doi thanh cong [POINT] tieu dung Viettel++ thanh 60 MB Data. Han su dung truoc [DATE]. Tong diem tieu dung con lai trong tai khoan Viettel++ cua Quy khach la [POINT]. De kiem tra lich su doi diem va lua chon uu dai hap dan khac, vui long truy cap https://vietteltelecom.vn/vtplus. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_572,[TB] Ban co KHUYEN MAI 30% nap dien thoai duy nhat ngay [DATE] tren Viettel Money (gom tang 20% gia tri the nap + hoan tien den 10%). Nap ngay tai https://km.vtmoney.vn/314y/topup30 .,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2099,(TB) Uu dai +1.2GB data/[TIME] cho thue bao [NUMBER] khi dang ky gia han thanh cong lien tiep 6 ngay dich vu Game Happy. Soan GHP5 gui 888 de dang ky. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2314,"Hưởng ứng ""Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ"", Ban Chỉ đạo quốc gia về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ kêu gọi các tổ chức, cá nhân có thông tin về liệt sĩ, mộ liệt sĩ vui lòng cung cấp về Tổng đài tiếp nhận thông tin Chiến dịch 500 ngày đêm. Số điện thoại: [NUMBER] hoặc (+84)[NUMBER]. Địa chỉ: Số 165 Xã Đàn, Đống Đa, Hà Nội.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2929,"Chao ban, Tiki xin gui ban link download app: https://vntiki.onelink.me/Rmpi/d5b513e1",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_906,"Nhap ma OTP 3425 de xac thuc Dang nhap tren ung dung My Viettel. Ma OTP se het han sau 5p. Chi tiet LH [NUMBER] ([MONEY]) hoac truy cap https://viettel.vn/app. De dam bao an toan cho tai khoan cua Quy khach, vui long khong chia se ma xac thuc nay voi bat ky ai.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2795,(QC) MIEN PHI CUOC 3G/4G cho Quy khach khi soan DK gui [NUMBER] ([MONEY]) de dang ky va trai nghiem dich vu tai http://englishnow.vn. Sau KM [MONEY]/ngay. LH [NUMBER] (cuoc di dong). TCQC soan TC gui [NUMBER].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2676,Ban co muon ung ngay [MONEY]? Tien ung va phi DV [MONEY] se duoc tru trong lan nap tien toi. Soan Y gui [NUMBER] de duoc ung tien ngay nhe! De tu choi nhan tin nhan soan TC gui [NUMBER].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1752,Lich tam ngung cap dien: Ma khach hang [NUMBER] hien dang no tien dien 2 thang. Lich cat dien se duoc thi hanh vao luc 16h00 chieu nay. Moi thac mac khieu nai ve hoa don vui long goi ngay can bo quan ly: [NUMBER],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1873,"Con đang cấp cứu ở bệnh viện sau tai nạn, cần đóng viện phí gấp [MONEY]. Bố/mẹ chuyển ngay vào STK [NUMBER] Vietcombank giúp con, số con bị hỏng rồi.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_065,"Våo ngay pkwin link http://casino-5-euro-no-deposit-bonus-[NUMBER].expertinvisalign.online dang ki tai khoan nhan code [MONEY], nap dau tang 100% trai nghiem casino,no hu hay nhat.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1401,"[TB] XÁC THỰC ONLINE - TẶNG NGAY ƯU ĐÃI! 
+Quý khách sử dụng điện thoại có hỗ trợ quét CC/CCCD gắn chip, truy cập https://viettel.vn/xacthucTB hoặc vào ứng dụng My Viettel để thực hiện.
+Xác thực thành công, Quý khách sẽ NHẬN [MONEY]. Tiền KM cộng vào ngày hôm sau.
+Chi tiết liên hệ 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_783,"Quy khach da huy goi ST5KM. Quy khach tiep tuc truy cap theo goi Mobile Internet dang su dung (neu co). De biet them thong tin ve cac goi khac, vui long bam goi *098# hoac truy cap My Viettel tai https://myvt.page.link/6 . Chi tiet LH 198 ([MONEY]). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1132,[TrustCA] Ma OTP: 780460 cho giao dich xac thuc ky so cua Quy khach voi MyVIB. Khong chia se ma OTP nay voi bat ky ai. OTP hieu luc trong [TIME].,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1384,"Quy khach duoc cong them [POINT] Viettel++ boi giao dich Tieu dung vien thong thang 04/[NUMBER]. Thoi han su dung diem den [DATE]. Hay truy cap https://vietteltelecom.vn/vtplus tren My Viettel hoac *098# de doi diem sang Data, SMS,
+Phut goi cung nhieu uu dai gia tri khac. Chi tiet LH 198. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1976,Hồ sơ vay [MONEY] đã duyệt. Vui lòng nộp phí bảo hiểm khoản vay [MONEY] vào TK [NUMBER] Sacombank để giải ngân ngay.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_348,"Gói ST5K đã hủy gia hạn thành công. Để biết các ưu đãi khác, truy cập https://viettel.vn/goidata hoặc bấm gọi *098#. Chi tiết LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1398,oloTaoTKhoanTraoLiXi524Ngin TUTwol.Ucbidv.com xDgroupsgooglecom,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_448,"[TB] LÊN MẠNG THẢ GA, GỌI MIỄN PHÍ, XEM TV 0Đ
+Soạn [NUMBER] gửi 191: Chỉ [MONEY]/30 ngày có 45GB (1,5GB/ngày), miễn phí 10p/cuộc nội mạng, 50p ngoại mạng. Đặc biệt, miễn phí xem [NUMBER].
+Gói cước gia hạn sau 30 ngày. CT dành riêng cho Quý khách. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_140,"[TB] Gọi điện miễn phí qua Mocha Call Out với gói ST5K. Tham gia, soạn ST5K gửi 191: [MONEY]/ngày có 500MB, tặng thêm [TIME] gọi nội mạng Mocha Call Out dùng đến [TIME]. DV gia hạn hàng ngày. LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2127,(TB) Nhan 1GB data/[TIME] + xem va nghe karaoke khong gioi han tai https://mkara.com.vn khi thue bao [NUMBER] soan MKA8 gui 888. Cuoc [MONEY]/[TIME]. CSKH [NUMBER] ([MONEY]). Tran trong!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2917,"Yeu cau cua Quy Khach chua duoc thuc hien do cu phap khong dung, vui long kiem tra lai. Chi tiet LH [NUMBER] (cuoc goi co dinh). Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2057,"Ban vao ngay pkwin https://m.[NUMBER].com/Account/Register? f=[NUMBER] dang ki tai khoan nhan code [MONEY], nap dau tang 100% trai nghiem casino, no hu hay nhat.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2815,(QC) TANG [MONEY] vao TKC cho TB [NUMBER]. Soan: OK gui [NUMBER] ([MONEY]) de nhan co hoi NAP TIEN tu dv Vmobi. Sau km [MONEY]/ngay.TCQC TC gui [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2395,Mã xác thực Claude của bạn là: [NUMBER],0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2652,<#> Ma OTP BE GROUP cua ban la 6598 Oye0OKTj+Xw,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_555,[TB] Ban co KHUYEN MAI 30% nap dien thoai duy nhat ngay [DATE] tren Viettel Money (gom tang 20% gia tri the nap + hoan tien 10%). Nap ngay tai https://km.vtmoney.vn/314y/topup30 .,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_763,"[TB] DATA TRÀN TRỀ - GÓI CƯỚC THÍCH MÊ!
+1. Soạn 1N gửi 191: [MONEY]/ngày có 5GB, [TIME] ngoại mạng, miễn phí 10p/cuộc gọi nội mạng, SMS nội mạng và [NUMBER]; ưu đãi sử dụng đến [TIME] ngày đăng ký.
+2. Soạn 7N gửi 191: [MONEY]/7 ngày có 35GB (5GB/ngày), [TIME] gọi ngoại mạng, miễn phí [TIME]/cuộc gọi nội mạng, SMS nội mạng và [NUMBER].
+Các gói cước gia hạn khi hết chu kỳ. Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1598,"[789-B.E.T] Thg báo: Đêm nay có đại tiệc Ngoại Hạng Anh, tỉ lệ kèo chấp cực thơm nạp 1 ăn 99. Đăng ký nhận code trải nghiệm [MONEY] free: http://789bet.keonhacai.top",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1059,"[QC] Vay nhanh [TIME] - [MONEY] dong ve tay. Chi can CCCD, tra gop den 24 thang. Lai suat uu dai. Dang ky online voi Viettel Money: https://viettelmoney.go.link/Ngdub.Chi tiet LH [NUMBER] ([MONEY]). Tu choi QC, soan TC3 gui 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_706,"JiFbMjrễnPhjANquòiicIhơiiTHóTDChi""nC-hínNqqànR'GQbhEk.anqzu.me;pVùiVèNuHt",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2400,"Da qua han thanh toan, Quy KH [NUMBER] vui long thanh toan so tien [MONEY] truoc 10-5-[NUMBER] va bo qua tin nhan nay neu da thanh toan. LH [NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_537,"[QC] Internet Viettel gói SUN1T: TẶNG NGAY 1 tháng cước dịch vụ khi đăng ký mới và đóng trước cước 12 tháng. Cước TB chỉ [MONEY]/tháng. Phí hòa mạng [MONEY], miễn phí modem wifi. Chi tiết LH [NUMBER] ([MONEY]) hoặc truy cập https://viettel.vn/s/SUN1T. Từ chối QC, soạn TC3 gửi 199.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1981,"[Techcombank] Để hủy giao dịch đáng ngờ, vui lòng đọc mã xác thực 6 số vừa gửi cho nhân viên đang gọi đến máy bạn. Tuyệt đối không cung cấp cho người khác.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1641,"[DatXanh_Group] Sự kiện tri ân khách hàng: Tặng vé mời tham gia lễ mở bán khu đô thị sinh thái ven sông, có cơ hội bốc thăm trúng xe ô tô Mazda. Đăng ký: http://datxanh.bds-sukien.cc",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2979,"Nhằm kích cầu tiêu dùng trong nước, Bộ Công Thương phát động Chương trình Khuyến mại tập trung quốc gia [NUMBER] từ ngày [DATE]-[DATE], doanh nghiệp sẽ thực hiện khuyến mại với hạn mức có thể lên đến 100%. Chi tiết https:// 
+kmttqg.vietrade.gov.vn",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1811,Hồ sơ vay [MONEY] đã duyệt. Vui lòng nộp phí bảo hiểm khoản vay [MONEY] vào TK [NUMBER] Vietcombank để giải ngân ngay.,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_935,"Ban co [MONEY] qua Nap Dien Thoai & [MONEY] qua khac trong MoMo, het han 30/4. Mo Vi > UU DAI > QUA CUA TOI dung ngay!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_547,"Chao mung 35 NAM VIETTEL, tran trong gui tang Quy khach 10.[POINT] tieu dung Viettel++. Thoi han su dung diem den [DATE]. Kinh moi Quy khach doi diem de nhan ngan uu dai hap dan tren My Viettel https://myvt.page.link/vtplus hoac goi *098#. Chi tiet LH 198. Tran trong.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2745,Ban da nhan sai cu phap. Vui long kiem tra lai ma so tren lop phu cao hoac goi ve so dien thoai (08) [NUMBER] [NUMBER] de duoc tu van.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_518,"lKtPlBatN""gOf!rMfjDN.ScfuCs.de^~layqXjennTamTrjeuhCkjendaueVjIx",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_356,"Quy khach dang thuc hien
+Chuyen tien nhanh 247 den TK
+Nguoi nhan: [NAME]
+So tien: [MONEY]
+Ma OTP: 021977 hieu luc [TIME]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1336,"[TB] Goi data ban dang su dung se het han vao ngay mai! Tiet kiem hon khi su dung cac goi cuoc sau:
+1. 5G135N co 180GB/30 ngay chi [MONEY]
+2. 5G180B co 180GB/30 ngay + mien phi goi chi [MONEY]
+3. 5GMXH200 co 210GB/30 ngay + mien phi goi chi [MONEY]
+Mua ngay tai https://viettelmoney.vn/data . Luu y: Danh sach goi cuoc kha dung co the thay doi tuy theo dieu kien thue bao tai thoi diem mua. LH [NUMBER] ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_620,"[TB] Toan dan tich cuc tham gia phong, chong mua ban nguoi. Khi phat hien dau hieu lien quan, hay thong bao ngay den co quan Cong an noi gan nhat hoac Tong dai quoc gia 111 de duoc tu van, ho tro, huong dan kip thoi.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1781,"Hệ thống ghi nhận bạn nhận nhầm 1 khoản tiền. Liên hệ [NUMBER] (Zalo) để được hướng dẫn hoàn trả, tránh liên đới pháp lý.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_938,"[TB] 5G: MUA 2 TẶNG 1 - MỪNG 50 NĂM ĐẠI THẮNG!
+Soạn 5G70 gửi 191: [MONEY]/7 ngày có 8GB/ngày.
+Đặc biệt: Từ 28/4 - 5/5, mua 2 lần gói 5G70 sẽ được tặng 1 lần đăng ký miễn phí. Quà tặng được áp dụng sau khi Quý khách nhận thông báo từ Viettel.
+Gói cước gia hạn sau 7 ngày. Chi tiết LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2829,"BO TTTT, BO Y TE, UBTW MTTQVN, HOI CHU THAP DO VN vận động đóng góp ủng hộ phòng, chống dịch bệnh Covid- 19. Quý vị ủng hộ, hãy soạn: CV n gửi [NUMBER] (trong đó, n là số lần ủng hộ [MONEY]). Mỗi tin nhắn Quý vị đóng góp [MONEY] nhân n lần (trong đó n giới hạn từ 1 đến 100). Điện thoại hỗ trợ: [NUMBER]. Website: [NUMBER].vn . Trân trọng cảm ơn!",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2065,"UNG DUNG VCB DIGIBANK cua ban duoc PHAT HIEN KICH HOAT tren thiet bi la. Neu KHONG PHAI BAN KICH HOAT vui 
+long bam vao https://vietcombank.vn-dll.vip de doi thiet bi hoac huy de tranh mat tai san",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2935,"Cam on QK da tin tuong & ung ho Dong [NAME]. De kich hoat goi BAO HANH tang them, QK vui long truy cap: http://dhht.vn/KH?vl=[NUMBER]&id=[NUMBER]",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1543,[EMS Viet Nam] Buu phat khan cap: Ban co 1 thu bao co chu ky tu toa an duoc gui den nhung chua co nguoi nhan. Xem lich trinh phat lai tai: [http://ems.buuphat-khancap.vip],1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_288,"[TB] ĐỪNG QUÊN: BẠN VẪN ĐƯỢC THAM GIA GÓI ST60N!
+Chỉ [MONEY]/30 ngày có 60GB (2GB/ngày).
+LH nhân viên Viettel: Viễn Thông Hoàng Quế - [NUMBER] (cước gọi di động) để được hỗ trợ sử dụng gói cước.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1242,"[TB] CMND đăng ký thuê bao của Quý khách đã hết hiệu lực từ [DATE] (theo luật Căn cước). Để tiếp tục sử dụng, vui lòng dùng điện thoại thông minh có hỗ trợ quét CC/CCCD gắn chip, truy cập https://viettel.vn/doigiayto, tải/đăng nhập My Viettel và cập nhật thông tin mới nhất hoặc đến cửa hàng giao dịch Viettel để được hỗ trợ. 
+Tặng [MONEY] vào tài khoản khuyến mại khi thực hiện online qua My Viettel trước [DATE], ưu đãi cộng vào ngày hôm sau. LH 198 ([MONEY]).",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1978,"Để nhận tiền hoàn thuế [MONEY], bạn cần chuyển trước phí xử lý [MONEY] vào STK [NUMBER] (VPBank) chủ TK NAM. Sau 15p tiền sẽ về.",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1635,"[Cash24] Ưu đãi cuối năm! Vay online từ [MONEY] đến [MONEY] chỉ cần số điện thoại chính chủ và CCCD, không cần chứng minh thu nhập. Link: http://cash24.vay-tieudung.vip",1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1247,"[QC] Mở thẻ tín dụng VPBank miễn phí thường niên, hạn mức đến [MONEY], trả góp [MONEY] cùng hoàn tiền tới 15%. Để đăng ký nhận link mở thẻ và đồng ý cung cấp số điện thoại của QK cho VPBank (qua đối tác Viettel, CTCP Thịnh Phát) và nhận hướng dẫn mở thẻ, soạn VP gửi [NUMBER] (MP). Từ chối QC, soạn TC gửi [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2701,"Tài khoản của Quý khách sắp hết. Soạn: 
+1 gửi [NUMBER] để ứng [TIME] nội mạng([MONEY]/p) 
+2 gửi [NUMBER] để ứng [TIME] ngoại mạng([MONEY]/p) 
+3 gửi [NUMBER] để ứng 30 Tin nhắn nội mạng([MONEY]/sms) 
+Chi tiết LH [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_760,"[QC] TẠO TÀI KHOẢN VÀ ĐĂNG NHẬP MY VIETTEL - NHẬN NGAY 10.[POINT] VIETTEL++. CT áp dụng cho thuê bao Internet, truyền hình tạo tài khoản và đăng nhập ứng dụng My Viettel thành công tại https://myvt.page.link/tkmyvt. Điểm Viettel++ được cộng trong [TIME]. Chi tiết LH [NUMBER] ([MONEY]). Từ chối QC, soạn TC3 gửi 199",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2512,TPBank tran trong gui toi Quy khach nhung loi chuc tot dep nhat nhan dip sinh nhat. Kinh chuc Quy khach mot sinh nhat nhieu niem vui va hanh phuc!,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_273,"[TB] VIETTEL TẶNG 20% GIÁ TRỊ TẤT CẢ THẺ NẠP trong ngày 11/12. Tiền KM sử dụng nội mạng đến hết [DATE]. Giảm thêm 2,5% khi nạp thẻ tại https://viettel.vn/pay/tt . Chi tiết gọi 197 bấm phím 19 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1565,[TjnhYeu_Kethon] Có pạn gửi tặng b 1 bài hát ẩn danh cùg lời nhắn cực cute. Nhấn vô link để nghe bài hát và xem ai là ngừoj gửi nhé: http://amnhac.quatang-andanhanh.cc,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2919,"(TB) Nhan ngay uu dai 3.8GB truy cap internet toc do cao khi dang ky goi HD70 cua MobiFone chi voi [MONEY]/thang. De dang ky, soan tin: DK HD70 gui [NUMBER]. Chi tiet LH [NUMBER].",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_674,Quy khach duoc cong 20.[POINT] do dang ky moi dich vu FTTH. Thoi han su dung diem den [DATE]. Hay truy cap http://myvt.page.link/viettelplus tren My Viettel de doi diem sang cuoc cung nhieu uu dai gia tri khac. Chi tiet LH [NUMBER] ([MONEY]). Tran trong.,0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_107,"Sau khi hủy gia hạn gói ST30K, ưu đãi còn lại sẽ được sử dụng đến hết chu kỳ. Để xác nhận, soạn Y gửi 191 trong [TIME]. Để từ chối, soạn N gửi 191. Yêu cầu của Quý khách sẽ tự động hủy bỏ sau [TIME] nếu không được xác nhận lại. Chi tiết LH 198 ([MONEY]). Trân trọng.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_2554,"(TB) Kỷ niệm 70 năm chiến thắng Điện Biên Phủ, MTTQ Việt Nam kêu gọi ủng hộ làm nhà cho người nghèo của tỉnh Điện Biên, bằng cách chuyển khoản tới Quỹ Vì người nghèo Trung ương, số tài khoản: [NUMBER] tại Vietinbank.",0,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1373,ZdeNeuQKNapTien RrFsWs.DeBidv.com TangNgay:20OKgroupsgooglecomB,1,p0_vietnamese_sms,vi,sms,1
+p0_vi_COM_1682,[Dragon_Capital] Thông báo: Quỹ đầu tư chính thức mở cổng ký kết hợp đồng hợp tác chiến lược lợi nhuận cố định 25%/năm dành cho nhà đầu tư cá nhân. Ký hợp đồng tại: http://dragoncapital.hopdong-dautu.vip,1,p0_vietnamese_sms,vi,sms,1
