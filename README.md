@@ -1,5 +1,7 @@
 # Dyv10.1 — gói chuẩn bị đưa lên GitHub
 
+> **Từ 27/11/2026: model hiện tại là `Duy_model/` (Dyv12.0.1, model thống nhất).** Mọi phiên bản mới phát triển trong thư mục đó (xem `Duy_model/README.md`). Phần dưới đây là gói Dyv10.1 cũ, giữ lại để tham khảo.
+
 Dyv10.1 = gộp **V4C** (bge-m3 + LoRA, train tiếp từ V4 của Trần) và **Dyv10.0** (phần Dyv học thêm tin SMS thật):
 p = σ(0,6·logit p_V4C + 0,4·logit p_Dyv10.0), chuẩn hoá đầu vào và đọc thêm cuối tin dài như Dyv8.1/9.0.
 Code, báo cáo và `ket_hop.json` đã ở trên GitHub, nhánh `dev2`. Thư mục này chỉ chứa thứ KHÔNG có trong git.
